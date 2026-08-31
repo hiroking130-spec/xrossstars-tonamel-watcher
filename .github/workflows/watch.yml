@@ -43,9 +43,11 @@ jobs:
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       SCRAPER_DEBUG: ${{ inputs.debug && '1' || '0' }}
       # 夜間は取得・カレンダー更新はするが、Discord通知だけ朝までためておく
-      QUIET_HOURS_ENABLED: "1"
-      QUIET_HOURS_START: "23"
-      QUIET_HOURS_END: "8"
+      # 0時から8時の間は通知が飛ばないように設定。
+      QUIET_HOURS_ENABLED: "1" # 0:24時間いつでも通知
+      QUIET_HOURS_START: "0" # 通知停止開始
+      QUIET_HOURS_END: "8" # 通知停止終了
+      NOTIFY_ON_CHANGE: "0" # 日時変更のお知らせを止める設定
 
     steps:
       - name: リポジトリを取得
