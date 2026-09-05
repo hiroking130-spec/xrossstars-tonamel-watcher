@@ -603,15 +603,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-Cn3ku@xrossstars-watcher
 DTSTAMP:20260903T054920Z
-SEQUENCE:17
+SEQUENCE:18
 DTSTART:20260923T024000Z
 DTEND:20260923T064000Z
 SUMMARY:【クロスギルド主催】9/23(水・祝) 参加費無料 BOX
  争奪戦
 DESCRIPTION:会場: オフライン / カードショップおうち秋葉
- 原店\n主催: 】9/23(水・祝) 参加費無料 BOX争奪戦\n参加費
- : 無料 BOX争奪戦\n定員: 32人\nエントリー期間: 2026/09/03(
- 木) 14:00 〜\n\nhttps://tonamel.com/competition/Cn3ku
+ 原店\n主催: クロスギルド-XROSSGUILD-\n参加費: 無料 BOX争
+ 奪戦\n定員: 32人\nエントリー期間: 2026/09/03(木) 14:00 〜\n\
+ nhttps://tonamel.com/competition/Cn3ku
 URL:https://tonamel.com/competition/Cn3ku
 LOCATION:カードショップおうち秋葉原店
 STATUS:CONFIRMED
@@ -635,15 +635,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-R25FW@xrossstars-watcher
 DTSTAMP:20260903T054920Z
-SEQUENCE:17
+SEQUENCE:18
 DTSTART:20260923T074000Z
 DTEND:20260923T114000Z
 SUMMARY:【クロスギルド主催】9/23(水・祝) 初心者・超初心
  者向けティーチング会
 DESCRIPTION:会場: オフライン / カードショップおうち秋葉
- 原店\n主催: 】9/23(水・祝) 初心者・超初心者向けティー
- チング会\n参加費: 無料！！\n定員: 6人\nエントリー期間
- : 2026/09/03(木) 14:00 〜\n\nhttps://tonamel.com/competition/R25FW
+ 原店\n主催: クロスギルド-XROSSGUILD-\n参加費: 無料！！\n
+ 定員: 6人\nエントリー期間: 2026/09/03(木) 14:00 〜\n\nhttps://
+ tonamel.com/competition/R25FW
 URL:https://tonamel.com/competition/R25FW
 LOCATION:カードショップおうち秋葉原店
 STATUS:CONFIRMED
@@ -652,14 +652,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-6BZdA@xrossstars-watcher
 DTSTAMP:20260903T082407Z
-SEQUENCE:16
+SEQUENCE:17
 DTSTART:20260923T094000Z
 DTEND:20260923T134000Z
 SUMMARY:【クロスギルド主催】第14回 GUILD CUP
 DESCRIPTION:会場: オフライン / カードショップおうち秋葉
- 原\n主催: クロスギルド-XROSSGUILD-\n参加費: 1\,500円 ※当
- 日支払い\n定員: 32人\nエントリー期間: 2026/09/03(木) 14:00 
- 〜\n\nhttps://tonamel.com/competition/6BZdA
+ 原\n主催: 】第14回 GUILD CUP\n参加費: 1\,500円 ※当日支払
+ い\n定員: 32人\nエントリー期間: 2026/09/03(木) 14:00 〜\n\nht
+ tps://tonamel.com/competition/6BZdA
 URL:https://tonamel.com/competition/6BZdA
 LOCATION:カードショップおうち秋葉原
 STATUS:CONFIRMED
@@ -700,14 +700,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-TLwwE@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:59
+SEQUENCE:60
 DTSTART:20260927T050000Z
 DTEND:20260927T090000Z
 SUMMARY:第11回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 32人\nエントリー期間: 2026/07/28(
- 火) 21:00 〜\n\nhttps://tonamel.com/competition/TLwwE
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 32人\
+ nエントリー期間: 2026/07/28(火) 21:00 〜\n\nhttps://tonamel.com/c
+ ompetition/TLwwE
 URL:https://tonamel.com/competition/TLwwE
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -889,14 +890,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-o8FKw@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:59
+SEQUENCE:60
 DTSTART:20261025T050000Z
 DTEND:20261025T090000Z
 SUMMARY:第12回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 32人\nエントリー期間: 2026/08/19(
- 水) 18:00 〜\n\nhttps://tonamel.com/competition/o8FKw
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 32人\
+ nエントリー期間: 2026/08/19(水) 18:00 〜\n\nhttps://tonamel.com/c
+ ompetition/o8FKw
 URL:https://tonamel.com/competition/o8FKw
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
