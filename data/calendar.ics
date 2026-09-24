@@ -732,16 +732,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-aRfLE@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:47
+SEQUENCE:48
 DTSTART:20260927T040000Z
 DTEND:20260927T080000Z
 SUMMARY:第7回　Xross Stars Showdown!!【公認オーガナイザーイ
  ベント】
 DESCRIPTION:会場: オフライン / ウイングプラザ パディ 2F 
- デュエルスペース\n主催: イベント】\n参加費: はすべて
- 大会運営費並びに会場利用料に使用され、景品等のた
- めには一切使用しません。\n定員: 39チーム\nエントリー
- 期間: 2026/08/21(金) 19:00 〜\n\nhttps://tonamel.com/competition/aRfLE
+ デュエルスペース\n主催: クロスタ\n参加費: はすべて大
+ 会運営費並びに会場利用料に使用され、景品等のため
+ には一切使用しません。\n定員: 39チーム\nエントリー期
+ 間: 2026/08/21(金) 19:00 〜\n\nhttps://tonamel.com/competition/aRfLE
 URL:https://tonamel.com/competition/aRfLE
 LOCATION:ウイングプラザ パディ 2F デュエルスペース
 STATUS:CONFIRMED
@@ -750,14 +750,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-TLwwE@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:215
+SEQUENCE:216
 DTSTART:20260927T050000Z
 DTEND:20260927T090000Z
 SUMMARY:第11回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 32人\nエントリー期間: 2026/07/28(
- 火) 21:00 〜\n\nhttps://tonamel.com/competition/TLwwE
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 32人\
+ nエントリー期間: 2026/07/28(火) 21:00 〜\n\nhttps://tonamel.com/c
+ ompetition/TLwwE
 URL:https://tonamel.com/competition/TLwwE
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -1081,14 +1082,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-o8FKw@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:215
+SEQUENCE:216
 DTSTART:20261025T050000Z
 DTEND:20261025T090000Z
 SUMMARY:第12回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 32人\nエントリー期間: 2026/08/19(
- 水) 18:00 〜\n\nhttps://tonamel.com/competition/o8FKw
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 32人\
+ nエントリー期間: 2026/08/19(水) 18:00 〜\n\nhttps://tonamel.com/c
+ ompetition/o8FKw
 URL:https://tonamel.com/competition/o8FKw
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
