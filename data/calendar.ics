@@ -954,12 +954,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-pB8GK@xrossstars-watcher
 DTSTAMP:20260917T142426Z
-SEQUENCE:0
+SEQUENCE:1
 DTSTART:20261011T020000Z
 DTEND:20261011T060000Z
 SUMMARY:第4回 にこかっぷ (縛りあり)
 DESCRIPTION:会場: オフライン / ワンダーグー瑞江店\n主催: 
- にこカップ\n参加費: 1100円(現金のみ)\n定員: 48人\nエン
+ にこかっぷ\n参加費: 1100円(現金のみ)\n定員: 48人\nエン
  トリー期間: 2026/09/28(月) 19:00 〜\n\nhttps://tonamel.com/competit
  ion/pB8GK
 URL:https://tonamel.com/competition/pB8GK
@@ -1080,12 +1080,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-ppu7M@xrossstars-watcher
 DTSTAMP:20260921T082548Z
-SEQUENCE:0
+SEQUENCE:1
 DTSTART:20261025T020000Z
 DTEND:20261025T060000Z
 SUMMARY:第5回 にこかっぷ (縛りあり)
 DESCRIPTION:会場: オフライン / ワンダーグー瑞江店\n主催: 
- にこカップ\n参加費: 1100円(現金のみ)\n定員: 48人\nエン
+ にこかっぷ\n参加費: 1100円(現金のみ)\n定員: 48人\nエン
  トリー期間: 2026/09/28(月) 19:00 〜\n\nhttps://tonamel.com/competit
  ion/ppu7M
 URL:https://tonamel.com/competition/ppu7M
@@ -1112,15 +1112,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-o8FKw@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:244
+SEQUENCE:245
 DTSTART:20261025T050000Z
 DTEND:20261025T090000Z
 SUMMARY:第12回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
- 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
- 1人（決済は当日会場で支払いになります）\n定員: 32人\
- nエントリー期間: 2026/08/19(水) 18:00 〜\n\nhttps://tonamel.com/c
- ompetition/o8FKw
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
+ ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
+ いになります）\n定員: 32人\nエントリー期間: 2026/08/19(
+ 水) 18:00 〜\n\nhttps://tonamel.com/competition/o8FKw
 URL:https://tonamel.com/competition/o8FKw
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -1153,6 +1152,22 @@ DESCRIPTION:会場: オフライン / カードショップBambi\n主催:
  6/08/21(金) 15:00 〜\n\nhttps://tonamel.com/competition/D3OsY
 URL:https://tonamel.com/competition/D3OsY
 LOCATION:カードショップBambi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-g1a6N@xrossstars-watcher
+DTSTAMP:20260928T142651Z
+SEQUENCE:0
+DTSTART:20261031T030000Z
+DTEND:20261031T070000Z
+SUMMARY:第10回クロスタコギナゴカップ【3人チーム戦】
+DESCRIPTION:会場: オフライン / コーギーアール名古屋店\n
+ 主催: コーギーアール名古屋店\n参加費: 1チーム7500円\n
+ 定員: 24チーム\nエントリー期間: 2026/09/28(月) 19:00 〜\n\nh
+ ttps://tonamel.com/competition/g1a6N
+URL:https://tonamel.com/competition/g1a6N
+LOCATION:コーギーアール名古屋店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
