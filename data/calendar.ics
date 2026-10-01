@@ -1080,6 +1080,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-Jsm9G@xrossstars-watcher
+DTSTAMP:20261001T085142Z
+SEQUENCE:0
+DTSTART:20261023T103000Z
+DTEND:20261023T143000Z
+SUMMARY:Bambi杯クロスタ部門
+DESCRIPTION:会場: オフライン / カードショップBambi\n主催: 
+ カードショップBambi\n参加費: 500円\n定員: 16人\nエントリ
+ ー期間: 2026/10/01(木) 13:00 〜\n\nhttps://tonamel.com/competition/Js
+ m9G
+URL:https://tonamel.com/competition/Jsm9G
+LOCATION:カードショップBambi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-EjMLR@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:0
@@ -1091,6 +1107,22 @@ DESCRIPTION:会場: オフライン / シーガル名取店様\n主催: 金
  026/07/19(日) 10:00 〜\n\nhttps://tonamel.com/competition/EjMLR
 URL:https://tonamel.com/competition/EjMLR
 LOCATION:シーガル名取店様
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-IJtRu@xrossstars-watcher
+DTSTAMP:20261001T085142Z
+SEQUENCE:0
+DTSTART:20261024T020000Z
+DTEND:20261024T060000Z
+SUMMARY:第31回︎🌟1部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: nanacs\n
+ 参加費: 1500円(現金のみになります)\n定員: 32人\nエント
+ リー期間: 2026/10/02(金) 20:00 〜\n\nhttps://tonamel.com/competition
+ /IJtRu
+URL:https://tonamel.com/competition/IJtRu
+LOCATION:トレカ侍2号店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1107,6 +1139,22 @@ DESCRIPTION:会場: オフライン / おもちゃのバンビ本郷店\n
  s://tonamel.com/competition/SJ5a8
 URL:https://tonamel.com/competition/SJ5a8
 LOCATION:おもちゃのバンビ本郷店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-spwCV@xrossstars-watcher
+DTSTAMP:20261001T085142Z
+SEQUENCE:0
+DTSTART:20261024T070000Z
+DTEND:20261024T110000Z
+SUMMARY:第31回︎🌟2部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: nanacs\n
+ 参加費: 1500円(現金のみになります)\n定員: 32人\nエント
+ リー期間: 2026/10/02(金) 21:00 〜\n\nhttps://tonamel.com/competition
+ /spwCV
+URL:https://tonamel.com/competition/spwCV
+LOCATION:トレカ侍2号店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1145,14 +1193,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-o8FKw@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:259
+SEQUENCE:260
 DTSTART:20261025T050000Z
 DTEND:20261025T090000Z
 SUMMARY:第12回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 32人\nエントリー期間: 2026/08/19(
- 水) 18:00 〜\n\nhttps://tonamel.com/competition/o8FKw
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 32人\
+ nエントリー期間: 2026/08/19(水) 18:00 〜\n\nhttps://tonamel.com/c
+ ompetition/o8FKw
 URL:https://tonamel.com/competition/o8FKw
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -1223,14 +1272,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-XrzD1@xrossstars-watcher
 DTSTAMP:20260929T112610Z
-SEQUENCE:7
+SEQUENCE:8
 DTSTART:20261101T050000Z
 DTEND:20261101T090000Z
 SUMMARY:第13回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 48人\nエントリー期間: 2026/09/29(
- 火) 19:00 〜\n\nhttps://tonamel.com/competition/XrzD1
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 48人\
+ nエントリー期間: 2026/09/29(火) 19:00 〜\n\nhttps://tonamel.com/c
+ ompetition/XrzD1
 URL:https://tonamel.com/competition/XrzD1
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -1301,14 +1351,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-PzAvv@xrossstars-watcher
 DTSTAMP:20260929T112610Z
-SEQUENCE:7
+SEQUENCE:8
 DTSTART:20261115T050000Z
 DTEND:20261115T090000Z
 SUMMARY:第14回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 48人\nエントリー期間: 2026/09/29(
- 火) 19:00 〜\n\nhttps://tonamel.com/competition/PzAvv
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 48人\
+ nエントリー期間: 2026/09/29(火) 19:00 〜\n\nhttps://tonamel.com/c
+ ompetition/PzAvv
 URL:https://tonamel.com/competition/PzAvv
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -1381,14 +1432,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-Avj2H@xrossstars-watcher
 DTSTAMP:20260930T082726Z
-SEQUENCE:3
+SEQUENCE:4
 DTSTART:20261213T050000Z
 DTEND:20261213T090000Z
 SUMMARY:第15回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 48人\nエントリー期間: 2026/09/30(
- 水) 17:00 〜\n\nhttps://tonamel.com/competition/Avj2H
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 48人\
+ nエントリー期間: 2026/09/30(水) 17:00 〜\n\nhttps://tonamel.com/c
+ ompetition/Avj2H
 URL:https://tonamel.com/competition/Avj2H
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
