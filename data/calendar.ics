@@ -1302,15 +1302,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-o8FKw@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:332
+SEQUENCE:333
 DTSTART:20261025T050000Z
 DTEND:20261025T090000Z
 SUMMARY:第12回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
- 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
- 1人（決済は当日会場で支払いになります）\n定員: 32人\
- nエントリー期間: 2026/08/19(水) 18:00 〜\n\nhttps://tonamel.com/c
- ompetition/o8FKw
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
+ ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
+ いになります）\n定員: 32人\nエントリー期間: 2026/08/19(
+ 水) 18:00 〜\n\nhttps://tonamel.com/competition/o8FKw
 URL:https://tonamel.com/competition/o8FKw
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -1319,10 +1318,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-IcnHn@xrossstars-watcher
 DTSTAMP:20261012T221056Z
-SEQUENCE:0
+SEQUENCE:1
 DTSTART:20261029T120000Z
 DTEND:20261029T160000Z
-SUMMARY:クロススターズ「ignition Vortex」争奪戦
+SUMMARY:クロススターズ「Ignition Vortex」争奪戦
 DESCRIPTION:会場: オフライン / レプトントレカ海田店\n主
  催: レプトントレカ海田店\n参加費: 無料\n定員: 16人\nエ
  ントリー期間: 2026/10/12(月) 17:00 〜\n\nhttps://tonamel.com/compe
@@ -1476,12 +1475,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-ICfby@xrossstars-watcher
 DTSTAMP:20261015T013055Z
-SEQUENCE:0
+SEQUENCE:1
 DTSTART:20261101T023000Z
 DTEND:20261101T063000Z
 SUMMARY:第３回ひねもすCS
 DESCRIPTION:会場: オフライン / カードゲームショップ オレ
- タン岡山本店\n主催: ひねもすCS\n参加費: 1500円\n定員: 32
+ タン岡山本店\n主催: ひねもすCS\n参加費: 1500円\n定員: 36
  人\nエントリー期間: 2026/10/14(水) 17:00 〜\n\nhttps://tonamel.c
  om/competition/ICfby
 URL:https://tonamel.com/competition/ICfby
@@ -1554,15 +1553,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-XrzD1@xrossstars-watcher
 DTSTAMP:20260929T112610Z
-SEQUENCE:80
+SEQUENCE:81
 DTSTART:20261101T050000Z
 DTEND:20261101T090000Z
 SUMMARY:第13回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
- 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
- 1人（決済は当日会場で支払いになります）\n定員: 48人\
- nエントリー期間: 2026/09/29(火) 19:00 〜\n\nhttps://tonamel.com/c
- ompetition/XrzD1
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
+ ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
+ いになります）\n定員: 48人\nエントリー期間: 2026/09/29(
+ 火) 19:00 〜\n\nhttps://tonamel.com/competition/XrzD1
 URL:https://tonamel.com/competition/XrzD1
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -1759,15 +1757,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-PzAvv@xrossstars-watcher
 DTSTAMP:20260929T112610Z
-SEQUENCE:80
+SEQUENCE:81
 DTSTART:20261115T050000Z
 DTEND:20261115T090000Z
 SUMMARY:第14回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
- 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
- 1人（決済は当日会場で支払いになります）\n定員: 48人\
- nエントリー期間: 2026/09/29(火) 19:00 〜\n\nhttps://tonamel.com/c
- ompetition/PzAvv
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
+ ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
+ いになります）\n定員: 48人\nエントリー期間: 2026/09/29(
+ 火) 19:00 〜\n\nhttps://tonamel.com/competition/PzAvv
 URL:https://tonamel.com/competition/PzAvv
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -1854,6 +1851,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-26HmF@xrossstars-watcher
+DTSTAMP:20261019T074528Z
+SEQUENCE:0
+DTSTART:20261122T050000Z
+DTEND:20261122T090000Z
+SUMMARY:第3回　Xross Cheers杯
+DESCRIPTION:会場: オフライン / フルコンプ福岡天神店\n主
+ 催: しん\n参加費: 1000円\n定員: 32人\nエントリー期間: 202
+ 6/10/19(月) 12:00 〜\n\nhttps://tonamel.com/competition/26HmF
+URL:https://tonamel.com/competition/26HmF
+LOCATION:フルコンプ福岡天神店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-i6ZDX@xrossstars-watcher
 DTSTAMP:20261017T121420Z
 SEQUENCE:0
@@ -1887,15 +1899,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-Avj2H@xrossstars-watcher
 DTSTAMP:20260930T082726Z
-SEQUENCE:76
+SEQUENCE:77
 DTSTART:20261213T050000Z
 DTEND:20261213T090000Z
 SUMMARY:第15回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
- 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
- 1人（決済は当日会場で支払いになります）\n定員: 48人\
- nエントリー期間: 2026/09/30(水) 17:00 〜\n\nhttps://tonamel.com/c
- ompetition/Avj2H
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
+ ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
+ いになります）\n定員: 48人\nエントリー期間: 2026/09/30(
+ 水) 17:00 〜\n\nhttps://tonamel.com/competition/Avj2H
 URL:https://tonamel.com/competition/Avj2H
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
