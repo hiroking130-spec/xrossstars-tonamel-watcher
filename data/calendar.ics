@@ -1302,15 +1302,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-o8FKw@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:354
+SEQUENCE:355
 DTSTART:20261025T050000Z
 DTEND:20261025T090000Z
 SUMMARY:第12回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
- 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
- 1人（決済は当日会場で支払いになります）\n定員: 32人\
- nエントリー期間: 2026/08/19(水) 18:00 〜\n\nhttps://tonamel.com/c
- ompetition/o8FKw
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
+ ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
+ いになります）\n定員: 32人\nエントリー期間: 2026/08/19(
+ 水) 18:00 〜\n\nhttps://tonamel.com/competition/o8FKw
 URL:https://tonamel.com/competition/o8FKw
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -1335,14 +1334,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-0fA52@xrossstars-watcher
 DTSTAMP:20261012T130601Z
-SEQUENCE:0
+SEQUENCE:1
 DTSTART:20261030T030000Z
 DTEND:20261030T070000Z
 SUMMARY:第32回︎🌟1部:ぽたくCS︎
-DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: nanacs\n
- 参加費: 1500円(現金のみになります)\n定員: 16人\nエント
- リー期間: 2026/10/12(月) 20:00 〜\n\nhttps://tonamel.com/competition
- /0fA52
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: なな
+ め会議\n参加費: 1500円(現金のみになります)\n定員: 16人\
+ nエントリー期間: 2026/10/12(月) 20:00 〜\n\nhttps://tonamel.com/c
+ ompetition/0fA52
 URL:https://tonamel.com/competition/0fA52
 LOCATION:トレカ侍2号店
 STATUS:CONFIRMED
@@ -1506,6 +1505,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-OYMbD@xrossstars-watcher
+DTSTAMP:20261024T071655Z
+SEQUENCE:0
+DTSTART:20261101T040000Z
+DTEND:20261101T080000Z
+SUMMARY:11月非公認大会『Ignition Vortex』BOX争奪戦①
+DESCRIPTION:会場: オフライン / まちキャラ柏モディ店\n主
+ 催: まちキャラ柏モディ店\n参加費: 500円\n定員: 16人\nエ
+ ントリー期間: 2026/10/24(土) 13:00 〜\n\nhttps://tonamel.com/compe
+ tition/OYMbD
+URL:https://tonamel.com/competition/OYMbD
+LOCATION:まちキャラ柏モディ店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-SShfU@xrossstars-watcher
 DTSTAMP:20261013T033433Z
 SEQUENCE:0
@@ -1554,15 +1569,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-XrzD1@xrossstars-watcher
 DTSTAMP:20260929T112610Z
-SEQUENCE:102
+SEQUENCE:103
 DTSTART:20261101T050000Z
 DTEND:20261101T090000Z
 SUMMARY:第13回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
- 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
- 1人（決済は当日会場で支払いになります）\n定員: 48人\
- nエントリー期間: 2026/09/29(火) 19:00 〜\n\nhttps://tonamel.com/c
- ompetition/XrzD1
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
+ ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
+ いになります）\n定員: 48人\nエントリー期間: 2026/09/29(
+ 火) 19:00 〜\n\nhttps://tonamel.com/competition/XrzD1
 URL:https://tonamel.com/competition/XrzD1
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -1581,6 +1595,22 @@ DESCRIPTION:会場: オフライン / 越谷コミュニティセンター
  金) 19:00 〜\n\nhttps://tonamel.com/competition/9b5mM
 URL:https://tonamel.com/competition/9b5mM
 LOCATION:越谷コミュニティセンター第1会議室
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-6lIis@xrossstars-watcher
+DTSTAMP:20261024T071655Z
+SEQUENCE:0
+DTSTART:20261103T040000Z
+DTEND:20261103T080000Z
+SUMMARY:11月非公認大会『Ignition Vortex』BOX争奪戦②
+DESCRIPTION:会場: オフライン / まちキャラ柏モディ店\n主
+ 催: まちキャラ柏モディ店\n参加費: 500円\n定員: 16人\nエ
+ ントリー期間: 2026/10/24(土) 13:00 〜\n\nhttps://tonamel.com/compe
+ tition/6lIis
+URL:https://tonamel.com/competition/6lIis
+LOCATION:まちキャラ柏モディ店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1759,15 +1789,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-PzAvv@xrossstars-watcher
 DTSTAMP:20260929T112610Z
-SEQUENCE:102
+SEQUENCE:103
 DTSTART:20261115T050000Z
 DTEND:20261115T090000Z
 SUMMARY:第14回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
- 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
- 1人（決済は当日会場で支払いになります）\n定員: 48人\
- nエントリー期間: 2026/09/29(火) 19:00 〜\n\nhttps://tonamel.com/c
- ompetition/PzAvv
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
+ ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
+ いになります）\n定員: 48人\nエントリー期間: 2026/09/29(
+ 火) 19:00 〜\n\nhttps://tonamel.com/competition/PzAvv
 URL:https://tonamel.com/competition/PzAvv
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -1854,6 +1883,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-Czfza@xrossstars-watcher
+DTSTAMP:20261024T071655Z
+SEQUENCE:0
+DTSTART:20261122T040000Z
+DTEND:20261122T080000Z
+SUMMARY:第3回 るなっつ杯@福岡
+DESCRIPTION:会場: オフライン / 遊INGコマーシャルモール博
+ 多店\n主催: るなっつ杯\n参加費: 1\,000円（当日現金払い
+ ）\n定員: 32人\nエントリー期間: 2026/10/13(火) 07:00 〜\n\nht
+ tps://tonamel.com/competition/Czfza
+URL:https://tonamel.com/competition/Czfza
+LOCATION:遊INGコマーシャルモール博多店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-26HmF@xrossstars-watcher
 DTSTAMP:20261019T074528Z
 SEQUENCE:0
@@ -1887,14 +1932,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-XuX01@xrossstars-watcher
 DTSTAMP:20261020T133711Z
-SEQUENCE:16
+SEQUENCE:17
 DTSTART:20261123T013000Z
 DTEND:20261123T053000Z
 SUMMARY:【クロスギルド主催】第15回 GUILD CUP
 DESCRIPTION:会場: オフライン / 竜星のPAO秋葉原ロケット無
- 線店\n主催: クロスギルド-XROSSGUILD-\n参加費: 1\,500円 ※
- 当日支払い\n定員: 64人\nエントリー期間: 2026/10/20(火) 19:
- 00 〜\n\nhttps://tonamel.com/competition/XuX01
+ 線店\n主催: 】第15回 GUILD CUP\n参加費: 1\,500円 ※当日支
+ 払い\n定員: 64人\nエントリー期間: 2026/10/20(火) 19:00 〜\n\
+ nhttps://tonamel.com/competition/XuX01
 URL:https://tonamel.com/competition/XuX01
 LOCATION:竜星のPAO秋葉原ロケット無線店
 STATUS:CONFIRMED
@@ -1916,17 +1961,32 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-ZwUh6@xrossstars-watcher
+DTSTAMP:20261024T071655Z
+SEQUENCE:0
+DTSTART:20261123T040000Z
+DTEND:20261123T080000Z
+SUMMARY:11月非公認大会『Ignition Vortex』BOX争奪戦③
+DESCRIPTION:会場: オフライン / まちキャラ柏モディ店\n主
+ 催: まちキャラ柏モディ店\n参加費: 500円\n定員: 16人\nエ
+ ントリー期間: 2026/10/24(土) 13:00 〜\n\nhttps://tonamel.com/compe
+ tition/ZwUh6
+URL:https://tonamel.com/competition/ZwUh6
+LOCATION:まちキャラ柏モディ店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Avj2H@xrossstars-watcher
 DTSTAMP:20260930T082726Z
-SEQUENCE:98
+SEQUENCE:99
 DTSTART:20261213T050000Z
 DTEND:20261213T090000Z
 SUMMARY:第15回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
- 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
- 1人（決済は当日会場で支払いになります）\n定員: 48人\
- nエントリー期間: 2026/09/30(水) 17:00 〜\n\nhttps://tonamel.com/c
- ompetition/Avj2H
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
+ ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
+ いになります）\n定員: 48人\nエントリー期間: 2026/09/30(
+ 水) 17:00 〜\n\nhttps://tonamel.com/competition/Avj2H
 URL:https://tonamel.com/competition/Avj2H
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
