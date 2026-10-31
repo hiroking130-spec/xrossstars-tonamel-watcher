@@ -2,16 +2,16 @@
   "meta": {
     "schema_version": 1,
     "note": "初回実行時にTonamel掲載中の大会がここへ書き込まれます。空のままにしておいてください。",
-    "last_run": "2026-10-31T11:18:26.906615+09:00",
-    "count": 131,
+    "last_run": "2026-10-31T19:55:26.469744+09:00",
+    "count": 133,
     "last_run_info": {
-      "list_count": 41,
-      "api_hit": 41,
-      "new": 0,
+      "list_count": 43,
+      "api_hit": 43,
+      "new": 2,
       "changed": 4,
       "notify": {
         "mode": "sent",
-        "sent": 0,
+        "sent": 1,
         "delivered_pending": false
       },
       "errors": []
@@ -3339,7 +3339,7 @@
       "capacity_num": 32,
       "fee_num": null,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "【池ドラCC】＃2\n2026/10/31(土)\n東京都豊島区東池袋1丁目30-6 セイコーサンシャインビルⅫ 4F\n¥ 2,000\n31/32\nドラゴンスター池袋店\nXrossStars",
       "raw_json": {
@@ -3352,7 +3352,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:25:59.287913+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "g1a6N": {
@@ -3375,20 +3375,20 @@
       "capacity_num": 24,
       "fee_num": 7500,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
-      "raw_text": "募集中\n\n第10回クロスタコギナゴカップ【3人チーム戦】\n2026/10/31(土)\n愛知県名古屋市中村区椿町13-4スパーク椿町6F\n¥ 7,500\n13/24\nコーギーアール名古屋店\nXrossStars",
+      "raw_text": "結果発表\n\n第10回クロスタコギナゴカップ【3人チーム戦】\n2026/10/31(土)\n愛知県名古屋市中村区椿町13-4スパーク椿町6F\n¥ 7,500\n14/24\nコーギーアール名古屋店\nXrossStars",
       "raw_json": {
         "id": "g1a6N",
         "title": "第10回クロスタコギナゴカップ【3人チーム戦】",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-09-28T23:26:51.943484+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "16lpG": {
@@ -3411,20 +3411,59 @@
       "capacity_num": 32,
       "fee_num": 1000,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
-      "raw_text": "募集中\n\nとんカップ in カードショップはっち\n2026/10/31(土)\n大阪市中央区難波千日前7-10 COCONAMBA4F\n¥ 1,000\n26/32\nとんカップ\nXrossStars",
+      "raw_text": "結果発表\n\nとんカップ in カードショップはっち\n2026/10/31(土)\n大阪市中央区難波千日前7-10 COCONAMBA4F\n¥ 1,000\n28/32\nとんカップ\nXrossStars",
       "raw_json": {
         "id": "16lpG",
         "title": "とんカップ in カードショップはっち",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:25:59.287913+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
+      "seq": 0
+    },
+    "iiq5k": {
+      "id": "iiq5k",
+      "url": "https://tonamel.com/competition/iiq5k",
+      "title": "第10回クロスタコギナゴカップ【サイドイベント~BOX争奪戦~】",
+      "start_at": "2026-10-31T15:30:00+09:00",
+      "end_at": null,
+      "start_date": "2026-10-31",
+      "format": "オフライン",
+      "venue": "コーギーアール名古屋店",
+      "address": "愛知県名古屋市中村区椿町13-4スパーク椿町6F",
+      "organizer": "コーギーアール名古屋店",
+      "entry_fee": "300円",
+      "capacity": "24人",
+      "entry_period": "",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/r24Kr/647e9883cc6cc30a133f4c62c0914184222c39a41f4257fefc03ef43a37715ba.jpg",
+      "prefecture": "愛知県",
+      "region": "中部",
+      "capacity_num": 24,
+      "fee_num": 300,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 2,
+      "raw_text": "第10回クロスタコギナゴカップ【サイドイベント~BOX争奪戦~】\n主催：\nコーギーアール名古屋店\nXrossStars\nイベント結果\nきゅうべぇ\nきゅうべぇ@今年もライブ行くぞー\n初心者\nこのは\nぷりん\nぷりん\nおんし\nONC\nもっと見る\nイベント開始予定\n2026/10/31(土) 15:30 〜\nトーナメント形式\nシングルエリミネーション\n参加枠の上限\n24人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n当大会では基本ルール、総合ルール共にXross Stars公式の最新ルールに準ずるものとさせていただきます。また、当大会は株式会社Game&Co様によるものではありません。\n\n\n\n\n【大会内容・ルールについて】\n\n■持ち物\n\n・スマートフォン\n\n・大会に使用するデッキ\n\n・大会に使用するスリーブ\n\n・参加費300円\n\n\n\n\n\n\n\n■大会賞品\n\n\n\n\n1位\n\nIgnition Voltex 1BOX\n\n\n\n\n■対戦形式\n\n・フルマッチ35分1本勝負 シングルエリミネーション形式\n\n\n\n\n【注意事項】\n\n・基本セルフジャッジでお願いいたします。\n\n・大会中にデッキの変更は出来ません。\n\n・上位入賞者の方にデッキレシピの公開をお願いします。こちら原則として拒否することができないものとさせていただきます。ご理解いただいた上で大会にご参加、登録をお願いします。\n\n・お手荷物の管理に十分にご注意ください。紛失等のトラブルの際にお店では責任を負いかねます。\n\n・会場内での食事は禁止となっております。また、飲料に関してはフタ付きのものを選んでいただき、会場内でこぼすことのないようご注意ください。\n\n・上記のルールやその他店内のルール、マナーを守っていただくようご協力お願い致します。過度に反する場合は失格、並びに退席処分とさせていただく場合がございます。\n\n・世間の情勢等によって大会が中止になる場合があります。\n\n以上のルールや概要に同意したものとして参加受付を行いますので必ずご確認の上、ご参加をお願い致します。\n\n続きを読む\n開催場所\nコーギーアール名古屋店\n愛知県名古屋市中村区椿町13-4スパーク椿町6F\nシェア\nイベントID\niiq5k\n\nイベントに参加\n\n終了しました。\n\nイベント\n\n参加者\n\nトーナメント表\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\n日本\n第10回クロスタコギナゴカップ【サイドイベント~BOX争奪戦~】\n人気のゲーム\nポケモンカードゲーム \nONE PIECEカードゲーム \nデュエル・マスターズ \nPokémon Trading Card Game Pocket \n遊戯王マスターデュエル \nストリートファイター6 \n遊戯王OCG \n蟲神器 \nGUILTY GEAR -STRIVE- \n大乱闘スマッシュブラザーズSPECIAL \n#コンパス 【戦闘摂理解析システム】 \nウルトラマン カードゲーム \nデジモンカードゲーム \nユニオンアリーナ \nポケットモンスター スカーレット・バイオレット \nDUEL MASTERS PLAY’S\n© KAYAC Inc. All Rights Reserved.\n機能と特徴\nイベントをさがす\n使い方\n導入事例\n利用規約\nプライバシーポリシー\n特定商取引法に基づく表示\n謝辞\nお問い合わせ\n公式ツイッター",
+      "raw_json": {
+        "id": "iiq5k",
+        "title": "第10回クロスタコギナゴカップ【サイドイベント~BOX争奪戦~】",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "CLOSED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-10-31T19:55:24.903214+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "zsbB7": {
@@ -3447,9 +3486,9 @@
       "capacity_num": 48,
       "fee_num": 1100,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
-      "raw_text": "募集中\n\n第6回 にこかっぷ (通常構築)\n2026/11/01(日)\n東京都江戸川区瑞江4-50-12\n¥ 1,100\n16/48\nにこかっぷ\nXrossStars",
+      "raw_text": "募集中\n\n第6回 にこかっぷ (通常構築)\n2026/11/01(日)\n東京都江戸川区瑞江4-50-12\n¥ 1,100\n17/48\nにこかっぷ\nXrossStars",
       "raw_json": {
         "id": "zsbB7",
         "title": "第6回 にこかっぷ (通常構築)",
@@ -3460,7 +3499,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:25:59.287913+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "ICfby": {
@@ -3483,7 +3522,7 @@
       "capacity_num": 48,
       "fee_num": 1500,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\n第３回ひねもすCS\n2026/11/01(日)\n〒700-0962 岡山県岡山市北区北長瀬表町２丁目１７−８０ ブランチ岡山北長瀬 内\n41/48\nひねもすCS\nXrossStars",
       "raw_json": {
@@ -3496,7 +3535,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-15T10:30:55.972191+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 2
     },
     "Ef2iQ": {
@@ -3519,20 +3558,24 @@
       "capacity_num": 58,
       "fee_num": 1500,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n滝行杯#9\n2026/11/01(日)\n〒170-0013 東京都豊島区東池袋１丁目２３−８ 東池袋ＩＳＫビル 5F\n¥ 1,500\n111/58\n星屑デビルバッツ\nXrossStars",
+      "raw_text": "滝行杯#9\n主催：\n星屑デビルバッツ\nXrossStars\nイベント開始予定\n2026/11/01(日) 13:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n58人\n開催形式\nオフライン\nイベント詳細\n\n\n\n\n新弾発売おめでとう‼️\n\n\n\n\nflat-工房池袋店様で非公認大会を\n\n開催させていただきます‼️\n\n大型大会前の腕試しにどうぞ‼️\n\n\n\n\n\n\n\n■スケジュール\n\n12:30～受付開始\n\n13:00～大会説明\n\n13:15～試合開始\n\n17:00　 予選終了予定\n\n17:15 決勝トーナメント開始\n\n※上位8名を決勝トーナメント進出とする。\n\n\n\n\n\n\n\n■対戦形式\n\n・制限時間30分(時間切れの場合両者敗北)\n\n・最大6回戦\n\n(全勝者が1名になった時点で大会は終了します)\n\n・スイスドロー形式\n\n・フルマッチ(BO3)\n\n■参加費\n・1500円\n\n\n\n\n■持ち物\n\n・デッキ\n・ダメージなどを計算するもの\n\n・参加費(1500円)\n\n・替えのスリーブ\n\n\n■景品\n\n🥇\n\n・ブースターパック\n\n『Ignition Vortex』 3box\n\n\n\n\n🥈\n\n・ブースターパック\n\n『Ignition Vortex』2box\n\n\n\n\n🥉\n\n・ブースターパック\n\n『Ignition Vortex』1box\n\n\n\n\n4位\n\n・LRP\n\n5-8位　\n\n・LRP\n\n\n\n\n\n\n\nその他 ランダム賞多数\n\n\n\n\nキャンセルは前日の24時までに\n\nよろしくお願いいたします🙇‍♂️\n\n\n\n\n\n\n\n参加者に応じて対戦数が前後します。\n\nご了承ください。\n\n\n\n\n今大会までに当日キャンセルなどが多数の方はエントリーをお断りさせていただくことがあります。\n\n\n\n\n\n\n\n続きを読む\n開催場所\nflat-工房　池袋店\n〒170-0013 東京都豊島区東池袋１丁目２３−８ 東池袋ＩＳＫビル 5F\n連絡先\n@abi_nzna\nシェア\nイベントID\nEf2iQ\n\nイベントに参加\n\nエントリー\n招待選手\n募集人数\n8/8人\n支払い済み人数\n0/8人\nエントリー料\n¥ 1,500\n募集人数の上限を超えた場合\nエントリー受付終了\nエントリー期間\n2026/08/13(木) 21:00 〜\n2026/11/01(日) 13:00\n\n受付は締め切りました\n\n参加者の皆さん\n募集人数\n97/50人\n支払い済み人数\n0/50人\nエントリー料\n¥ 1,500\n募集人数の上限を超えた場合\nエントリー先着順\nエントリー期間\n2026/08/17(月) 21:00 〜\n2026/11/01(日) 13:00\n\nエントリー\n\nあと17:08:15\n\nトーナメント表確定\n主催者のトーナメント表確定をお待ちください。\n\nトーナメント表\n\n確定までお待ちください\n\nイベント\n\n参加者\n\nトーナメント表\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\n日本\n滝行杯#9\n人気のゲーム\nポケモンカードゲーム \nONE PIECEカードゲーム \nデュエル・マスターズ \nPokémon Trading Card Game Pocket \n遊戯王マスターデュエル \nストリートファイター6 \n遊戯王OCG \n蟲神器 \nGUILTY GEAR -STRIVE- \n大乱闘スマッシュブラザーズSPECIAL \n#コンパス 【戦闘摂理解析システム】 \nウルトラマン カードゲーム \nデジモンカードゲーム \nユニオンアリーナ \nポケットモンスター スカーレット・バイオレット \nDUEL MAST",
       "raw_json": {
         "id": "Ef2iQ",
         "title": "滝行杯#9",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": true,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "contact": "@abi_nzna",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 2
     },
     "OYMbD": {
@@ -3555,9 +3598,9 @@
       "capacity_num": 16,
       "fee_num": 500,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
-      "raw_text": "募集中\n\n11月非公認大会『Ignition Vortex』BOX争奪戦①\n2026/11/01(日)\n〒277-0005 千葉県柏市柏１丁目２−２６ 柏モディ ５F\n¥ 500\n9/16\nまちキャラ柏モディ店\nXrossStars",
+      "raw_text": "募集中\n\n11月非公認大会『Ignition Vortex』BOX争奪戦①\n2026/11/01(日)\n〒277-0005 千葉県柏市柏１丁目２−２６ 柏モディ ５F\n¥ 500\n10/16\nまちキャラ柏モディ店\nXrossStars",
       "raw_json": {
         "id": "OYMbD",
         "title": "11月非公認大会『Ignition Vortex』BOX争奪戦①",
@@ -3568,7 +3611,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:16:55.052455+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "SShfU": {
@@ -3591,7 +3634,7 @@
       "capacity_num": 32,
       "fee_num": 500,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\nあんとく三潴　BOX争奪戦\n2026/11/01(日)\n〒830-0101 福岡県久留米市三潴町早津崎８９２\n¥ 500\n3/32\nはうは@はう\nXrossStars",
       "raw_json": {
@@ -3604,7 +3647,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-13T12:34:33.161868+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "pkq9V": {
@@ -3627,20 +3670,23 @@
       "capacity_num": 40,
       "fee_num": null,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\nさかｲﾝかっぷ～Vol.2～\n2026/11/01(日)\n大阪府堺市堺区北花田口町3丁1-15 TOYOビル1F\n¥ 1,000\n26/40\nトイコンプ 堺東店\nXrossStars",
+      "raw_text": "さかｲﾝかっぷ～Vol.2～\n主催：\nトイコンプ 堺東店\nXrossStars\nイベント開始予定\n2026/11/01(日) 13:30 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n40人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n※必ずイベント詳細をお読みになってからエントリーをお願いします。\n\n\n\n\n〖開催日時〗\n\n11月1日(日)　13:30～\n\n(受付は30分前から)\n\n\n\n\n〖定員〗\n\n40名\n\n\n\n\n〖参加費〗\n\n1000円\n\n\n\n\n〖大会形式〗\n\n予選：スイスドロー最大5回戦\n\n予選上位８名による決勝トーナメント\n\n\n\n\n〖賞品〗\n\n優勝:『Ignition Vortex』2BOX\n\n　　　+限定プレイマット(お好きな色一つ)\n\n2位：『Ignition Vortex』1BOX\n\n3位・4位：『Ignition Vortex』6パック\n\n5位～8位：『Ignition Vortex』3パック\n\n\n\n\nTOP4の方には『公式黒ダイス』も一つずつ贈呈!!\n\n\n\n\n(※参加人数により賞品が変動する場合がございます)\n\n\n\n\n参加賞：『Ignition Vortex』1パック\n\nランダム賞もあります！！\n\n\n\n\n〖その他〗\n\nその他ルールは、公式フロアルールに則って行います。\n\n入賞者のデッキリストは大会終了後SNSにて公開させていただくことがございます、ご了承ください。\n\n\n\n\nその他ご不明点があれば下記イベントオーガナイザーまでご連絡ください。\n\nイベントオーガナイザー：『ゃー』(X：＠power_is_pw)\n\n続きを読む\n開催場所\nトイコンプ 堺東店\n大阪府堺市堺区北花田口町3丁1-15 TOYOビル1F\nシェア\nイベントID\npkq9V\n\nイベントに参加\n\nエントリー\n募集人数\n27/40人\n支払い済み人数\n0/40人\nエントリー料\n¥ 1,000\n募集人数の上限を超えた場合\nエントリー先着順\nエントリー期間\n2026/10/03(土) 10:00 〜\n2026/11/01(日) 13:00\n\nエントリー\n\nあと17:08:02\n\nトーナメント表確定\n主催者のトーナメント表確定をお待ちください。\n\nトーナメント表\n\n確定までお待ちください\n\nイベント\n\n参加者\n\nトーナメント表\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\n日本\nさかｲﾝかっぷ～Vol.2～\n人気のゲーム\nポケモンカードゲーム \nONE PIECEカードゲーム \nデュエル・マスターズ \nPokémon Trading Card Game Pocket \n遊戯王マスターデュエル \nストリートファイター6 \n遊戯王OCG \n蟲神器 \nGUILTY GEAR -STRIVE- \n大乱闘スマッシュブラザーズSPECIAL \n#コンパス 【戦闘摂理解析システム】 \nウルトラマン カードゲーム \nデジモンカードゲーム \nユニオンアリーナ \nポケットモンスター スカーレット・バイオレット \nDUEL MASTERS PLAY’S\n© KAYAC Inc. All Rights Reserved.\n機能と特徴\nイベントをさがす\n使い方\n導入事例\n利用規約\nプライバシーポリシー\n特定商取引法に基づく表示\n謝辞\nお問い合わせ\n公式ツイッター",
       "raw_json": {
         "id": "pkq9V",
         "title": "さかｲﾝかっぷ～Vol.2～",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-10-09T17:58:52.002345+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "FyuwU": {
@@ -3663,9 +3709,9 @@
       "capacity_num": 32,
       "fee_num": 0,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
-      "raw_text": "募集中\n\nビデ尼　クロスタ新弾BOX争奪戦\n2026/11/01(日)\n兵庫県尼崎市西難波町3丁目30-15\n8/32\nビデオインアメリカ尼崎店\nXrossStars",
+      "raw_text": "募集中\n\nビデ尼　クロスタ新弾BOX争奪戦\n2026/11/01(日)\n兵庫県尼崎市西難波町3丁目30-15\n7/32\nビデオインアメリカ尼崎店\nXrossStars",
       "raw_json": {
         "id": "FyuwU",
         "title": "ビデ尼　クロスタ新弾BOX争奪戦",
@@ -3676,7 +3722,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:25:59.287913+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "XrzD1": {
@@ -3689,7 +3735,7 @@
       "format": "オフライン",
       "venue": "ドラグーン博多店",
       "address": "〒812-0011 福岡県福岡市博多区博多駅前１丁目３−２２ かき善ビル 4F",
-      "organizer": "イベント）",
+      "organizer": "火蝶杯（公認オーガナイザーイベント）",
       "entry_fee": "1000円 / 1人（決済は当日会場で支払いになります）",
       "capacity": "48人",
       "entry_period": "2026/09/29(火) 19:00 〜",
@@ -3699,21 +3745,24 @@
       "capacity_num": 48,
       "fee_num": 1000,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n第13回　火蝶杯（かちょうはい）\n2026/11/01(日)\n〒812-0011 福岡県福岡市博多区博多駅前１丁目３−２２ かき善ビル 4F\n¥ 1,000\n16/48\n火蝶杯（公認オーガナイザーイベント）\nXrossStars",
+      "raw_text": "第13回　火蝶杯（かちょうはい）\n主催：\n火蝶杯（公認オーガナイザーイベント）\nXrossStars\nイベント開始予定\n2026/11/01(日) 14:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n48人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n主催挨拶\n\nこんにちは！カガリと申します。\nクロススターズのイベント主催は不慣れなので、ご迷惑をお掛けするかもしれませんが、皆さんが楽しんでもらえる大会にできるように頑張ります！宜しくお願いします！\n\n毎月定期的に火蝶杯を開催しますので、是非ご参加下さい\n\n何かイベントに関する質問･お問い合わせや、キャンセル等の連絡がありましたらTwitter(@kagari_8215 )までご連絡下さい！\n\n※詳細はルール項目に記載しています。必ず確認下さい。\n\nイベント概要\n\n\n\n\n※本イベントはカガリ（@kagari_8215）の\n\n行う自主イベントになります。\n\n\n\n\n※「当主催が開催するXross Starsのイベントすべてが、公認オーガナイザーイベントとして承認を受けているわけではありません。」\n\n\nイベント名\n\n第13回　火蝶杯(公認オーガナイザーイベント)\n\n開催日 \n2026/11/1(日)\n\n開催場所 \n福岡県 ドラグーン博多店\n\n対戦形式 \n個人戦（予選スイス 5-6回戦 ＋ 決勝トーナメント 2回戦）\n※人数により変動します。\n定員 \n48名\n\n参加費 \n1000円 / 1人（決済は当日会場で支払いになります）\n\n\n\n※参加費はすべて大会運営費並びに会場利用料に使用され、景品等のためには一切使用しません。\n\n\n抽選方法 \n先着順\n\n\n\n\n優勝　2BOX(予定)+プレイマット\n\nその他上位賞用意\n\n※各種景品について \n\n火蝶杯の景品につきましてはXrossStars公式様並びに ドラグーン博多店様より無償提供されるものを使用し開催いたします。\n\n\n\n\n参加賞 ブースターパック 1パック\n\n\nイベント参加に必要な物\n\n・イベント参加するために必要な物です。必ず持参して下さい。\n・イベントに使用する　スマホ\n・対戦に必要なもの デッキ・ダメカン等\n・身分が確認できる物（当日確認する場合がございます）\n・イベント参加費\n\nイベントスケジュール\n\n13:30- イベント受付\n14：00- 開会式＋マッチング\n14：10- 予選スイスドロー1回戦\n-18：00頃 表彰式\n※当日の進行具合により、スケジュールが変更される場合があります。\n\nイベントルール\n\n■構築ルール\n\n● イベント当日の構築制限･構築基準にのっとったデッキを使用してください。\n\n■対戦形式について\n\n● 予選5-6回戦のスイスドローの後、オポネント計算の上、\n上位4名によるトーナメント形式による決勝トーナメントを行います。\n※予選回数、及び決勝トーナメント進出者は、参加人数によって増減します。ご了承下さい。\n\n● 制限時間は予選決勝共に30分の2本先取(フルマッチ)にて行います。\n┗〇時間切れに関しては、予選ラウンドは両者敗北とします。\n\n\n● 決勝トーナメントにて時間切れをした場合エクストラターンを設けターンプレイヤーを\n\n０ターン目とし交互にターンを行い３ターン目まで行います。それでも決着つかなかった場合以下の処理順にて勝敗を決します。\n　　1.リーダーのダウン枚数(同数場合は次へ)\n　　2.じゃんけんの勝者\n\n\n● その他、大まか",
       "raw_json": {
         "id": "XrzD1",
         "title": "第13回　火蝶杯（かちょうはい）",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-09-29T20:26:10.756510+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
-      "seq": 131
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
+      "seq": 132
     },
     "9b5mM": {
       "id": "9b5mM",
@@ -3735,7 +3784,7 @@
       "capacity_num": 32,
       "fee_num": 500,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\n狂人杯　#03\n2026/11/03(火)\n〒343-0845 埼玉県越谷市南越谷１丁目２８７６−１\n¥ 500\n11/32\n価格保証宣言！\nXrossStars",
       "raw_json": {
@@ -3748,7 +3797,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-07T02:13:14.275706+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "6lIis": {
@@ -3771,7 +3820,7 @@
       "capacity_num": 16,
       "fee_num": 500,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\n11月非公認大会『Ignition Vortex』BOX争奪戦②\n2026/11/03(火)\n〒277-0005 千葉県柏市柏１丁目２−２６ 柏モディ ５F\n¥ 500\n12/16\nまちキャラ柏モディ店\nXrossStars",
       "raw_json": {
@@ -3784,7 +3833,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:16:55.052455+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "Qwjmk": {
@@ -3807,20 +3856,23 @@
       "capacity_num": 32,
       "fee_num": null,
       "is_online": true,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n『Ignition Vortex』BOX争奪戦in193名駅太閤店\n2026/11/03(火)\nオンライン\n¥ 500\n6/32\nTCGshop193名駅太閤店\nXrossStars",
+      "raw_text": "『Ignition Vortex』BOX争奪戦in193名駅太閤店\n主催：\nTCGshop193名駅太閤店\nXrossStars\nイベント開始予定\n2026/11/03(火) 14:05 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオンライン\nイベント詳細\n\n【大会形式】\n\n・個人戦　\n\nスイスドロー形式 最大5回戦\n\n※参加人数により対戦回数は変更となります。\n\n【大会受付】\n\n・受付開始13:30～14:00\n\n※エントリーはトナメル上にて先着順。\n\n【大会参加費】\n\n\\500\n\n【大会ルール】\n\n制限時間35分\n\n時間切れの場合両者敗北\n\n使用できるカードはXrossStarsフロアルールに準じます。\n\n対戦終了後はすみやかに結果の報告をお願いします。\n結果のご報告が無い場合は両者敗北で進行させていただく場合がございます。\n\n【賞品】\n参加賞：300円分のシングルチケット＋α\n優勝賞品:『Ignition Vortex』1BOX\n\n上位賞(1敗ライン)：『Ignition Vortex』3パック\n\nさらに最後まで参加された中から参加人数に応じてランダム賞を配布予定\n※参加人数により賞品の配布数は変更となります。\n\n【参加キャンセルについて】\n事前に参加のキャンセルを行ってください。\n無断でキャンセルされた場合は、今後の大会の参加が出来なくなる場合や参加の保留(キャンセル待ち)になる場合があります。\n\n続きを読む\nシェア\nイベントID\nQwjmk\n\nイベントに参加\n\nエントリー\n募集人数\n6/32人\n支払い済み人数\n0/32人\nエントリー料\n¥ 500\n募集人数の上限を超えた場合\nエントリー先着順\nエントリー期間\n2026/10/08(木) 20:00 〜\n2026/11/03(火) 14:00\n\nエントリー\n\nあと2日\n\nトーナメント表確定\n主催者のトーナメント表確定をお待ちください。\n\nトーナメント表\n\n確定までお待ちください\n\nイベント\n\n参加者\n\nトーナメント表\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\nオンライン\n『Ignition Vortex』BOX争奪戦in193名駅太閤店\n人気のゲーム\nポケモンカードゲーム \nONE PIECEカードゲーム \nデュエル・マスターズ \nPokémon Trading Card Game Pocket \n遊戯王マスターデュエル \nストリートファイター6 \n遊戯王OCG \n蟲神器 \nGUILTY GEAR -STRIVE- \n大乱闘スマッシュブラザーズSPECIAL \n#コンパス 【戦闘摂理解析システム】 \nウルトラマン カードゲーム \nデジモンカードゲーム \nユニオンアリーナ \nポケットモンスター スカーレット・バイオレット \nDUEL MASTERS PLAY’S\n© KAYAC Inc. All Rights Reserved.\n機能と特徴\nイベントをさがす\n使い方\n導入事例\n利用規約\nプライバシーポリシー\n特定商取引法に基づく表示\n謝辞\nお問い合わせ\n公式ツイッター",
       "raw_json": {
         "id": "Qwjmk",
         "title": "『Ignition Vortex』BOX争奪戦in193名駅太閤店",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-10-07T20:48:14.622966+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "NMbsS": {
@@ -3883,7 +3935,7 @@
       "capacity_num": 16,
       "fee_num": 500,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\n第1回とりかごカップ\n2026/11/04(水)\n東京都千代田区外神田4-7-1 リバティー11号館5階\n¥ 500\n9/16\nとりかごカップ\nXrossStars",
       "raw_json": {
@@ -3896,7 +3948,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-14T16:33:59.152629+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "IpEqN": {
@@ -3919,20 +3971,23 @@
       "capacity_num": 32,
       "fee_num": 1500,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n第33回︎🌟1部:ぽたくCS︎\n2026/11/06(金)\n東京都豊島区東池袋1-32-5 大熊ビル4階\n¥ 1,500\n17/32\nななめ会議\nXrossStars",
+      "raw_text": "第33回︎🌟1部:ぽたくCS︎\n主催：\nななめ会議\nXrossStars\nイベント開始予定\n2026/11/06(金) 12:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n\n\n\n〇挨拶\n\n初めまして🌟\n\n運営のなな(@nnisg_hb03)と申します。\n\nCR推し⇒だるさん👼🏻‎\n\nぶいすぽ推し⇒小森めと\n\n\n\n\n推しのカード使いながら大会出たいよねぇ！？クロススターズ楽しいよね？！\n\nモチベ維持したいよね？！\n\nって感じで定期開催で運営させて頂いてます😊\n\nこれを機に初めてカードゲームをする方も気軽にご参加頂ければ嬉しいです！\n\n\n\n\n〇運営アカウント\n\nなな(@nnisg_hb03)のフォローをお願いいたします。\n\n何かあった際はこちらから連絡をさせていただく場合がございます。\n\n\n\n\n〇参加費\n\n1500円(現金のみになります)\n\n\n\n\n〇大会キャンセル方法\n\nトナメルよりキャンセルしてください。\n\nやり方が分からない方は運営のXまでご連絡いただければと思います🙇🏻‍♀️‪‪\n\n\n\n\n※前日の18:00を過ぎてのキャンセルは当日キャンセル扱いとさせていただきます。その場合は参加費をお支払いして頂きますのでご了承ください。\n\n※時間をすぎてキャンセルする場合は1度ご連絡を頂けると幸いです。無断キャンセルの場合は、今後 なな が行う全ての大会に参加をご遠慮していただきますのでご了承ください。\n\n\n\n\n〇大会出禁プレイヤー\n\nディボ:トナメルID tqTAU\n\n黒狐:トナメルID yej2w\n\n\n\n\n\n\n\n〇持ち物\n\n・大会で使用するデッキ\n\n・ダメージ計算ができるもの(スマホ❌)\n\n・予備スリーブ\n\n\n\n\n〇大会内容\n\nBO3(フルマッチ)の大会を行います。\n\n最大4回戦のスイスドロー\n\n\n\n\n12:10-12:30 大会受付\n\n12:35-13:10 1回戦と開会式\n\n13:15-13:50 2回戦\n\n13:55-14:30 3回戦\n\n14:35-15:10 4回戦\n\n\n\n\n〇大会景品(16人満員の場合です)\n\n\n\n\n1位:5弾『Ignition Vortex』 1BOX +3000円相当のカード\n\n\n\n\n2位:5弾『Ignition Vortex』 BOX\n\n\n\n\n3位:3000円相当のカード\n\n\n\n\n4位:1000円相当のカード\n\n\n\n\n️⭕️追記 32人満員の場合の景品\n\n\n\n\n【景品について】\n\n\n\n\n🏆4勝0敗（全勝） 5弾『Ignition Vortex』 1BOX\n\n\n\n\n🎁3勝1敗 3,000円相当のカード\n\n\n\n\nお店の開店時間等の都合で最大でも4回戦での開催になります。ご了承ください🙇🏻‍♀️‪‪\n\n\n\n\n※景品はカードでのお渡しとなります\n\n※同じ勝敗の方は全員同額相当の景品となります。\n\n※また、お店の在庫状況によってカードの組み合わせが変わってしまう可能性がございます。\n\n\n\n\n※参加人数で景品は前後します。ご了承ください。\n\n\n\n\n※景品の譲渡・販売は禁止です。\n\n\n\n\n\n\n\n〇注意事項\n\n•中には初めてのカードゲームです。って方もいると思いますので、紳士的な態度を心がけるようお願いします。\n\n紳士的ではない態度を見受けられた際は途中退場していただく場合もございます。\n\n\n\n\n・当日の様子を撮影しTwitter(X)に投稿する場合がございます。その際はモザイク等させて",
       "raw_json": {
         "id": "IpEqN",
         "title": "第33回︎🌟1部:ぽたくCS︎",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-10-25T16:37:12.263280+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "IFQRU": {
@@ -3955,20 +4010,23 @@
       "capacity_num": 32,
       "fee_num": 1500,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n第33回︎🌟2部:ぽたくCS︎\n2026/11/06(金)\n東京都豊島区東池袋1-32-5 大熊ビル4階\n¥ 1,500\n18/32\nななめ会議\nXrossStars",
+      "raw_text": "第33回︎🌟2部:ぽたくCS︎\n主催：\nななめ会議\nXrossStars\nイベント開始予定\n2026/11/06(金) 16:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n\n\n\n〇挨拶\n\n初めまして🌟\n\n運営のなな(@nnisg_hb03)と申します。\n\nCR推し⇒だるさん👼🏻‎\n\nぶいすぽ推し⇒小森めと\n\n\n\n\n推しのカード使いながら大会出たいよねぇ！？クロススターズ楽しいよね？！\n\nモチベ維持したいよね？！\n\nって感じで定期開催で運営させて頂いてます😊\n\nこれを機に初めてカードゲームをする方も気軽にご参加頂ければ嬉しいです！\n\n\n\n\n〇運営アカウント\n\nなな(@nnisg_hb03)のフォローをお願いいたします。\n\n何かあった際はこちらから連絡をさせていただく場合がございます。\n\n\n\n\n〇参加費\n\n1500円(現金のみになります)\n\n\n\n\n〇大会キャンセル方法\n\nトナメルよりキャンセルしてください。\n\nやり方が分からない方は運営のXまでご連絡いただければと思います🙇🏻‍♀️‪‪\n\n\n\n\n※前日の18:00を過ぎてのキャンセルは当日キャンセル扱いとさせていただきます。その場合は参加費をお支払いして頂きますのでご了承ください。\n\n※時間を過ぎてのキャンセルする場合は1度ご連絡を頂けると幸いです。無断キャンセルの場合は、今後 なな が行う全ての大会に参加をご遠慮していただく可能性がございますのでご了承ください。\n\n\n\n\n〇大会出禁プレイヤー\n\nディボ:トナメルID tqTAU\n\n黒狐:トナメルID yej2w\n\n\n\n\n〇持ち物\n\n・大会で使用するデッキ\n\n・ダメージ計算ができるもの(スマホ❌)\n\n・予備スリーブ\n\n\n\n\n〇大会内容\n\nBO3(フルマッチ)の大会を行います。\n\n最大5回戦のスイスドロー\n\n\n\n\n15:50-16:20 大会受付\n\n16:30-17:051回戦と開会式\n\n17:10-17:45 2回戦\n\n17:50-18:25 3回戦\n\n18:30-19:05 4回戦\n\n19:10-19:45 5回戦\n\n\n\n\n〇大会景品(32人満員の場合です)\n\n\n\n\n1位:5弾『Ignition Vortex』 3BOX\n\n+ぽたくCSオリジナルプレイマット\n\n\n\n\n2位:5弾『Ignition Vortex』2BOX\n\n\n\n\n3位:5弾『Ignition Vortex』 1BOX+2000円相当のカード\n\n\n\n\n4位:5弾『Ignition Vortex』 1BOX\n\n\n\n\n5位:3000円相当のカード\n\n\n\n\n※参加人数で景品は前後します。ご了承ください。\n\n\n\n\n※景品の譲渡・販売は禁止です。\n\n\n\n\n\n\n\n〇注意事項\n\n•中には初めてのカードゲームです。って方もいると思いますので、紳士的な態度を心がけるようお願いします。\n\n紳士的ではない態度を見受けられた際は途中退場していただく場合もございます。\n\n\n\n\n・当日の様子を撮影しTwitter(X)に投稿する場合がございます。その際はモザイク等させていただきます。\n\n\n\n\n•入賞した方にはデッキ撮影をお願いします。\n\n\n\n\n•遅刻などある場合はDMにてご連絡ください\n\n\n\n\n\n\n\n○喫煙について\n\n当ビルの周りや下で吸わないようお願いします。喫煙所まで行っていただくようお願い致します。\n\n続きを読む\n開催場所\nトレカ侍2号店\n東京都豊島区東池袋1-",
       "raw_json": {
         "id": "IFQRU",
         "title": "第33回︎🌟2部:ぽたくCS︎",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-10-25T16:37:12.263280+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "nprBw": {
@@ -3991,7 +4049,7 @@
       "capacity_num": 16,
       "fee_num": 500,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\n第2回 未明杯\n2026/11/07(土)\n広島県安芸郡海田町南大正町2-19 アセントビル2階\n¥ 500\n8/16\nうつしみのつどい\nXrossStars",
       "raw_json": {
@@ -4004,7 +4062,47 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-10T17:29:05.440363+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
+      "seq": 0
+    },
+    "iGTwL": {
+      "id": "iGTwL",
+      "url": "https://tonamel.com/competition/iGTwL",
+      "title": "しょうが！みょうが。杯",
+      "start_at": "2026-11-07T16:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-11-07",
+      "format": "オフライン",
+      "venue": "レプトン　サンモール店",
+      "address": "〒730-0031 広島県広島市中区紙屋町２丁目２−１８",
+      "organizer": "クロスタ大会",
+      "entry_fee": "】500円(当日現金でお願いします。）",
+      "capacity": "24人",
+      "entry_period": "2026/10/31(土) 16:00 〜",
+      "image_url": "https://tonamel.com/nuxt/46abf59bf4-c516361ef6-d9269593f2-46f99aa1c2/_nuxt/assets/images/figures/logo/cover.2c1c77c9aec534a836e83ccd05714c4c.jpg",
+      "prefecture": "広島県",
+      "region": "中国",
+      "capacity_num": 24,
+      "fee_num": 500,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 2,
+      "raw_text": "しょうが！みょうが。杯\n主催：\nクロスタ大会\nXrossStars\nイベント開始予定\n2026/11/07(土) 16:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n24人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n初めての非公認やります！\n\n\n\n\n【参加人数】最大24人\n\n\n\n\n【参加費】500円(当日現金でお願いします。）\n\n\n\n\n【持ち物】\n\n・スマホ等トナメルを扱えるもの\n\n・デッキ\n\n・ダメカン、サイコロなど\n\n・参加費\n\n・マイナンバーなどの身分証明ができるもの\n\n\n\n\n【ルール】\n\nXrossStars　フルマッチルール(BO3)を採用。\n先に2ラウンド勝利したプレイヤーの勝ちとします。\n\n\n\n\n予選:スイスドロー形式\n\n１回戦で負けても引き続き参加となります。 ドロップの際は運営まで、ご連絡お願いします。\n\n制限時間：35分　\n\n　　　　　時間切れは両者敗北とする。\n\n\n\n\n決勝:トーナメント式\n\n予選終了後、上位6名を決勝トーナメント出場とし、予選1,2位をシードとしてトーナメントを行うものとします。\n\n\n\n\n制限時間:35分\n\n\n\n\n【トーナメントにおける時間切れの際の裁定について】\n\n時間切れになった場合は速やかにプレイを中断してもらいます。\n\nその後、以下の追加ターンをプレイし、勝敗決定を実施します。\n\n\n\n\n☆時間切れ進行中ターンを0ターンめとして、3ターン目まで。すなわち、時間切れした際にターンプレイヤーではない側が2ターン行うまで追加ターンをプレイします。\n\n\n\n\n追加ターンでも勝敗が決着しなかった場合、以下の優先順位で勝者を決定します。\n\n・ラウンド取得数が多いプレイヤー\n\n・最終状態で、ダウンしているリーダーが少ないプレイヤー\n\n・最終状態で、総ダメージ量が少ないプレイヤー\n\n・タクティクスデッキの残り枚数が多いプレイヤー\n\n\n\n\n基本的なルールは公式プレイングマニュアル(https://xross-stars.com/rules.pdf )に準拠します。裁定は基本的にプレイヤーにお任せしますが、最終判断はジャッジ(主催者)の判断に準じますので、お気軽にお声掛けください。\n\n\n🃏使用可能カード\nhttps://xross-stars.com/card\n\n\n\n\n※禁止カード「エナジーチャージャー」は使用できないのでご注意ください。\n\n\n\n\n【順位賞】\n\n１位 Ignition Vortex 1BOX\n\n２位 Ignition Vortex 8パック\n\n３位 Ignition Vortex 4パック\n\n\n\n\n【当日スケジュール】\n\n大会受付　12:00〜12:59\n\n13:00~ 大会説明\n\n13:15~ 予選スタート\n\n16:00ごろ 予選終了予定\n\n16:30~ 決勝トーナメントスタート\n\n決勝トーナメント終了後表彰式を行います。\n\n\n\n\n大会終了　18:30予定\n\n\n\n\n【備考】\n\n・参加キャンセルの際は、必ずご自身でキャンセル処理をお願いします。\n\n・エントリーはトナメル上でお願いします。\n\n・1位,2位,３位の方には,Twitter（X）に掲載する用のデッキレシピのお写真(使用したリーダーのみ)とコメントをお一人ずついただきたいと思っています。ご協力の方、よろしくお願いします。\n\n・参加人数のによって景品を変更する可能性はありますが、現在より景品レベルが下がるようなことはありません。\n\n\n\n\n■ 注意事項\n\n",
+      "raw_json": {
+        "id": "iGTwL",
+        "title": "しょうが！みょうが。杯",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "contact": "@nakaniko6oiv",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-10-31T19:55:24.903214+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "kRCnO": {
@@ -4027,20 +4125,24 @@
       "capacity_num": 120,
       "fee_num": 2000,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n滝行杯#10\n2026/11/08(日)\n〒101-0021 東京都千代田区 外神田3丁目2-14 今井ビル2F\n¥ 0~2,000\n183/120\n星屑デビルバッツ\nXrossStars",
+      "raw_text": "滝行杯#10\n主催：\n星屑デビルバッツ\nXrossStars\nイベント開始予定\n2026/11/08(日) 11:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n120人\n開催形式\nオフライン\nイベント詳細\n\n滝行杯もなんと10回目！！！\n\n皆さんのおかげです。。。。\n\n\n\n\n193秋葉原店様で非公認大会を\n\n開催させていただきます‼️\n\n大型大会前の腕試しにどうぞ‼️\n\n\n\n\n■スケジュール\n\n11時00分～受付開始\n\n11時20分～大会説明\n\n11時40分～試合開始\n\n17時00分 予選終了予定\n\n17時20分 トーナメント開始\n\n19時30分 完全終了予定\n\n※上位16名をtier1トーナメント進出とする。\n\n※17〜32位までをtier2トーナメント進出とする。\n\n\n\n\n※トナメル上の順位を考慮し\n\n進出者を決める為オポネント等で\n\n同率の場合は両者が納得する方法で決めていただきます。\n\n\n\n\n\n\n\n■対戦形式\n\n・制限時間30分(時間切れの場合両者敗北)\n\n・最大7回戦\n\n(全勝者が1名になった時点で予選は終了します)\n\n・スイスドロー形式\n\n・フルマッチ(BO3)\n\n■参加費\n・2000円\n\n\n\n\n■持ち物\n\n・デッキ\n・ダメージなどを計算するもの\n\n・参加費(2000円)\n\n・替えのスリーブ\n\n\n■景品\n\n🥇\n\n・ブースターパック第5弾\n\n『Ignition Vortex』 6box\n\n\n\n\n🥈\n\n・ブースターパック第5弾\n\n『Ignition Vortex』 5box\n\n\n\n\n🥉\n\n・ブースターパック第5弾\n\n『Ignition Vortex』3box\n\n\n\n\n4位\n\n･ブースターパック第5弾\n\n『Ignition Vortex』2box\n\n\n\n\n5-8位　\n\n･ブースターパック第5弾\n\n『Ignition Vortex』1box\n\n\n\n\n9-16位\n\n･ブースターパック第5弾\n\n『Ignition Vortex』6pack\n\n\n\n\n\n\n\ntier2トーナメント\n\n🥇『Ignition Vortex』2box\n\n🥈『Ignition Vortex』1box\n\n🥉『Ignition Vortex』8pack\n\n4位『Ignition Vortex』4pack\n\n\n\n\n予選全勝賞やサプライ賞などもあり……❓\n\n\n\n\nその他 ランダム賞多数\n\n\n\n\nキャンセルは前日の24時までに\n\nよろしくお願いいたします🙇‍♂️\n\n\n\n\n\n\n\n参加者に応じて対戦数が前後します。\n\nご了承ください。\n\n\n\n\n今大会までに当日キャンセルなどが多数の方はエントリーをお断りさせていただくことがあります。\n\n\n\n\n\n\n\n続きを読む\n開催場所\n193 秋葉原店\n〒101-0021 東京都千代田区 外神田3丁目2-14 今井ビル2F\n連絡先\n@abi_nzna\nシェア\nイベントID\nkRCnO\n\nイベントに参加\n\nエントリー\n参加者の皆さん\n募集人数\n177/116人\n支払い済み人数\n0/116人\nエントリー料\n¥ 2,000\n募集人数の上限を超えた場合\nエントリー先着順\nエントリー期間\n2026/09/14(月) 21:00 〜\n2026/11/08(日) 21:00\n\nエントリー\n\nあと8日\n\n招待選手\n募集人数\n4/4人\nエントリー料\n無料\n募集人数の上限を超えた場合\nエントリー先着順\nエントリー期間\n2026/09/14(月) 13:00 〜\n2026/09/21(月) 13:00\n\n受付は締め切りました\n\nトーナメント表確定\n主催者のトーナメント",
       "raw_json": {
         "id": "kRCnO",
         "title": "滝行杯#10",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": true,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "contact": "@abi_nzna",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-09-14T14:27:21.374868+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "MGpdw": {
@@ -4063,20 +4165,23 @@
       "capacity_num": 24,
       "fee_num": 1000,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n星剣杯\n2026/11/08(日)\n〒730-0031 広島県広島市中区紙屋町２丁目２−１８\n¥ 1,000\n11/24\nORCup\nXrossStars",
+      "raw_text": "星剣杯\n主催：\nORCup\nXrossStars\nイベント開始予定\n2026/11/08(日) 13:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n24人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n訳あって東にいけないもの集え...!\n\nCCの調整に是非！\n\n\n\n\n【参加人数】最大24人\n\n\n\n\n【参加費】1000円(当日現金でお願いします。）\n\n\n\n\n【持ち物】\n\n・スマホ等トナメルを扱えるもの\n\n・デッキ\n\n・ダメカン、サイコロなど\n\n・参加費\n\n・マイナンバーなどの身分証明ができるもの\n\n\n\n\n【ルール】\n\nXrossStars　フルマッチルール(BO3)を採用。\n先に2ラウンド勝利したプレイヤーの勝ちとします。\n\n\n\n\n予選:スイスドロー形式\n\n１回戦で負けても引き続き参加となります。 ドロップの際は運営まで、ご連絡お願いします。\n\n制限時間：35分　\n\n　　　　　時間切れは両者敗北とする。\n\n\n\n\n決勝:トーナメント式\n\n予選終了後、上位6名を決勝トーナメント出場とし、予選1,2位をシードとしてトーナメントを行うものとします。\n\n\n\n\n制限時間:35分\n\n\n\n\n【トーナメントにおける時間切れの際の裁定について】\n\n時間切れになった場合は速やかにプレイを中断してもらいます。\n\nその後、以下の追加ターンをプレイし、勝敗決定を実施します。\n\n\n\n\n☆時間切れ進行中ターンを0ターンめとして、3ターン目まで。すなわち、時間切れした際にターンプレイヤーではない側が2ターン行うまで追加ターンをプレイします。\n\n\n\n\n追加ターンでも勝敗が決着しなかった場合、以下の優先順位で勝者を決定します。\n\n・ラウンド取得数が多いプレイヤー\n\n・最終状態で、ダウンしているリーダーが少ないプレイヤー\n\n・最終状態で、総ダメージ量が少ないプレイヤー\n\n・タクティクスデッキの残り枚数が多いプレイヤー\n\n\n\n\n基本的なルールは公式プレイングマニュアル(https://xross-stars.com/rules.pdf )に準拠します。裁定は基本的にプレイヤーにお任せしますが、最終判断はジャッジ(主催者)の判断に準じますので、お気軽にお声掛けください。\n\n\n🃏使用可能カード\nhttps://xross-stars.com/card\n\n\n\n\n※禁止カード「エナジーチャージャー」は使用できないのでご注意ください。\n\n\n\n\n【参加賞】\n\nプロモパック\n\n\n\n\n【順位賞】\n\n１位 Ignition Vortex 2BOX\n\n２位 Ignition Vortex 1BOX\n\n３位 LRP1枚\n\n\n\n\n4位 Ignition Vortex 5パック\n\n5位 Ignition Vortex 4パック\n\n6位 Ignition Vortex 3パック\n\n\n\n\n【当日スケジュール】\n\n大会受付　12:00〜12:59\n\n13:00~ 大会説明\n\n13:15~ 予選スタート\n\n16:00ごろ 予選終了予定\n\n16:30~ 決勝トーナメントスタート\n\n決勝トーナメント終了後表彰式を行います。\n\n\n\n\n大会終了　18:30予定\n\n\n\n\n【備考】\n\n・参加キャンセルの際は、必ずご自身でキャンセル処理をお願いします。\n\n・エントリーはトナメル上でお願いします。\n\n・1位,2位,３位の方には,Twitter（X）に掲載する用のデッキレシピのお写真とコメントをお一人ずついただきたいと思っています。ご協力の方、",
       "raw_json": {
         "id": "MGpdw",
         "title": "星剣杯",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-10-11T01:18:47.380293+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "ZcKk7": {
@@ -4099,20 +4204,23 @@
       "capacity_num": 32,
       "fee_num": 4500,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n第3.5回3on3チロカップ\n2026/11/08(日)\n〒569-1117 大阪府高槻市天神町１丁目１−１０ 2F\n¥ 4,500\n18/32\nチロカップ\nXrossStars",
+      "raw_text": "第3.5回3on3チロカップ\n主催：\nチロカップ\nXrossStars\nイベント開始予定\n2026/11/08(日) 13:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32チーム\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みかつチェックイン済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n■ご挨拶\n\n皆さんお待ちかね3on3を初開催！\n\nいつもトイコンプさんにお世話になっております。今回はトイコンプ高槻店での開催です！\n\n\n\n\n◾️大会概要\n\n本大会は特殊ルールのチーム戦となっております。\n\nリーダー被り無し、チーム内での同じACEは合計4枚までです。\n\n参加費:4500円/1チーム\n\n※参加費はすべて大会運営費並びに会場利用料に使用され、景品等のためには一切使用しません。\n\n(当日受付にて徴収します)\n\n\n\n\n◾️大会形式\n\n・予選ラウンド\n\nチーム戦フルマッチ制スイスドロー5回戦\n\n・決勝ラウンド\n\nトーナメント2~3回戦\n\n13チーム以下だとトーナメント進出が4チーム\n14チーム以上だとと進出が8チーム\n\n予選上位チームから進出で行います。\n\n※参加人数によって対戦形式を変更する場合があります。\n\n\n\n\n■大会ルール\n\n・対戦時間35分\n\n・フルマッチ\n\n・開催日までに発売、配布されたカードのみ使用可能\n\n・プロキシ(代用カード)の使用不可\n\n・大会途中でのデッキ変更不可\n\n・巻き戻しあり\n\n(但し、山札を見る行動や次の行動・attack等をしてしまった場合は巻き戻し不可)\n\n・終了コール時点で決着が着いていない卓は両者敗北となります。\n\n・対戦中はセルフジャッジとなります。\n\nセルフジャッジで決まらない場合は試合時間を止めて主催がジャッジします！\n\n\n\n\n◾️特殊ルール\n\nチーム内で同じリーダーの使用禁止\n\nチーム内で同じace合計4枚まで\n\n例)A、先導者2枚\n\n　B、先導者1枚\n\n　C、先導者1枚　　合計4枚\n\nA勝ち、B負け、C両負けの場合は両チーム負け扱いとなります。\n\nA対A、B対B、C対Cで戦って2勝以上しているチームが勝ちとなります。\n\n■制限時間\n\n・予選ラウンド/35分\n\n\n・決勝ラウンド/35分\n\n※決勝戦のみ時間無制限\n\n\n\n\n■スケジュール\n\n12:00〜13:00　受付\n\n13:00〜13:15　開会挨拶～1回戦マッチング発表\n\n13:15〜13:50　予選1回戦\n\n14:00〜14:35　予選2回戦\n\n14:45〜15:20　予選3回戦\n\n15:30〜16:05　予選4回戦\n\n16:15〜16:50　予選5回戦\n\n17:00～　　　　予選順位発表\n\n17:15～17:50　本戦1回戦\n\n18:00～18:35　準決勝\n\n18:45～19:20　決勝\n\n20:00　大会終了予定\n\n\n\n\n■賞品(参加人数により変動します)\n\n32チーム～8チームの場合\n\n1位：第5弾「イグニッション・ボルテックス」\n\n12～3BOX（144パック～36パック）\n\n\n\n\n2位：第5弾「イグニッション・ボルテックス」\n\n6～1.5BOX（72パック～18パック）\n\n\n\n\n３～４位：第5弾「イグニッション・ボルテックス」\n\n3～0BOX（36パック～9パック）\n\n※賞品内容は参加人数により変更する場合がございます。\n\n\n\n\n■大会に必要なもの\n\n・デッキ\n\n・ダメカン（代用可）\n\n\n\n\n■マッチング方法\n\nトナメルでマッチングを一斉に公開します。\n\n2回戦以降も全ての参加者が前の試合",
       "raw_json": {
         "id": "ZcKk7",
         "title": "第3.5回3on3チロカップ",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-09-05T14:24:50.796415+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "HGDp0": {
@@ -4135,20 +4243,23 @@
       "capacity_num": 16,
       "fee_num": null,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n777杯\n2026/11/14(土)\n〒885-0006 宮崎県都城市吉尾町８４０\n¥ 500\n6/16\n777杯\nXrossStars",
+      "raw_text": "777杯\n主催：\n777杯\nXrossStars\nイベント開始予定\n2026/11/14(土) 10:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n16人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n●大会概要\n\n【日程】\n\n2026年11月14日（土）\n\n\n\n\n【ルール】\n\n個人戦フルマッチ（BO3）\n\n予選　スイスドロー\n\n決勝　トーナメント（最大３回戦）\n\n※人数によって変更となる場合があります。\n\n\n\n\n【受付時間】\n\n10:00〜10:30　\n\n\n\n\n【参加定員】\n\n16名\n\n\n\n\n【参加費】\n\n500円（当日支払い）\n\n\n\n\n【景品】\n\n「優勝」\n\n・第５弾「Ignition　Vortex」　1箱\n\n「準優勝」\n\n・EXスターターデッキセット\n\n「ぶいすぽっ！」「Crazy　Raccoon」のどちらか１つ\n\n「3位」\n\n・EXスターターデッキセットの準優勝者が選ばなかった商品\n\n\n\n\n【大会ルール】\n\n・各試合は制限時間３５分のフルマッチとなります。\n\n・予選の時間切れは両者敗北、決勝トーナメントの時間切れはエクストラターンを行います。\n\n・セルフジャッジ制を採用いたします。判断に迷った場合は運営をお呼びください。\n\n・巻き戻しは原則認められません。\n\n\n\n\n初運営になります。至らない点があるかと思いますが、よろしくお願いします。大会に関するお問い合わせは運営のX（＠Hana1919082）までご連絡ください。\n\n続きを読む\n開催場所\nマンガ倉庫 都城店\n〒885-0006 宮崎県都城市吉尾町８４０\nシェア\nイベントID\nHGDp0\n\nイベントに参加\n\nエントリー\n募集人数\n6/16人\n支払い済み人数\n0/16人\nエントリー料\n¥ 500\n募集人数の上限を超えた場合\nエントリー先着順\nエントリー期間\n2026/10/14(水) 00:00 〜\n2026/11/14(土) 10:00\n\nエントリー\n\nあと13日\n\nトーナメント表確定\n主催者のトーナメント表確定をお待ちください。\n\nトーナメント表\n\n確定までお待ちください\n\nイベント\n\n参加者\n\nトーナメント表\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\n日本\n777杯\n人気のゲーム\nポケモンカードゲーム \nONE PIECEカードゲーム \nデュエル・マスターズ \nPokémon Trading Card Game Pocket \n遊戯王マスターデュエル \nストリートファイター6 \n遊戯王OCG \n蟲神器 \nGUILTY GEAR -STRIVE- \n大乱闘スマッシュブラザーズSPECIAL \n#コンパス 【戦闘摂理解析システム】 \nウルトラマン カードゲーム \nデジモンカードゲーム \nユニオンアリーナ \nポケットモンスター スカーレット・バイオレット \nDUEL MASTERS PLAY’S\n© KAYAC Inc. All Rights Reserved.\n機能と特徴\nイベントをさがす\n使い方\n導入事例\n利用規約\nプライバシーポリシー\n特定商取引法に基づく表示\n謝辞\nお問い合わせ\n公式ツイッター",
       "raw_json": {
         "id": "HGDp0",
         "title": "777杯",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-10-14T22:41:45.298605+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "IJ7el": {
@@ -4171,9 +4282,9 @@
       "capacity_num": 256,
       "fee_num": null,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
-      "raw_text": "募集中\n\nぽよクロ杯\n2026/11/14(土)\n〒192-0046 東京都八王子市明神町３丁目１９−２\n¥ 2,000\n125/256\nぽよクロ\nXrossStars",
+      "raw_text": "募集中\n\nぽよクロ杯\n2026/11/14(土)\n〒192-0046 東京都八王子市明神町３丁目１９−２\n¥ 2,000\n124/256\nぽよクロ\nXrossStars",
       "raw_json": {
         "id": "IJ7el",
         "title": "ぽよクロ杯",
@@ -4184,7 +4295,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T17:28:44.951035+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "wbFvs": {
@@ -4207,20 +4318,24 @@
       "capacity_num": 64,
       "fee_num": 2500,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n第3回　強奪の宴杯　カートン争奪\n2026/11/14(土)\n愛知県名古屋市中村区椿町13-4スパーク椿町6F\n¥ 2,500\n18/64\n強奪の宴杯\nXrossStars",
+      "raw_text": "第3回　強奪の宴杯　カートン争奪\n主催：\n強奪の宴杯\nXrossStars\nイベント開始予定\n2026/11/14(土) 11:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n64人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みかつチェックイン済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n当大会では基本ルール、総合ルール共にXross Stars公式の最新ルールに準ずるものとさせていただきます。また、当大会は株式会社Game&Co様によるものではありません。\n\n当大会はクロスタオーガナイザー制度適応大会ではありません。\n\n10/28に公式より発表がありました通り当大会は公式オーガナイザーイベントになりました。\n\n\n\n\nキャンセルは前日までに必ずお願い致します。\n\nそれ以降のキャンセルは次回以降の参加をお断りもしくは次回以降開催の強奪の宴杯でペナルティ(警告1)を発行した状態からご参加の場合がございます、当日の円滑な運営進行の為ご協力お願い致します。\n\n\n\n\n【大会内容・ルールについて】\n\n■持ち物\n\n・スマートフォン\n\n・大会に使用するデッキ\n\n・大会に使用するスリーブ\n\n・参加費2500円(現金のみ)\n\n\n\n\n■大会スケジュール\n\n11:00~11:50 大会受付\n\n11:50~12:00 開会式\n\n12:00~12:35 予選1回戦\n\n12:45~13:20 予選2回戦\n\n13:30~14:05 予選3回戦\n\n14:15~14:50 予選4回戦\n\n15:00~15:35 予選5回戦\n\nお楽しみ賞抽選15:40〜\n\n(トナメルの順位表に準拠し、上位14名が決勝トーナメントへ出場、予選ラウンド1位と2位の方は本戦１回戦シード権を獲得します。)\n\n16:30~17:05 決勝トーナメント1回戦目\n\n17:15~17:50 決勝トーナメント２回戦目\n\n18:00~18:35 準決勝\n\n18:45~19:20 決勝＆3位決定戦\n\n※当日の進行具合、参加人数によりスケジュール変更の場合がございます。\n\n\n\n\n\n\n\n■大会賞品\n\n（参加人数に応じて賞品の内容が変更される場合があります。ご了承ください）\n\n\n\n\n・参加人数64名の場合\n\n\n\n\n1位\n\nクロスタ第5弾IGV　1カートン\n\n+オーガナイザーイベント限定ダイス\n\n2位\n\nクロスタ第5弾IGV 3BOX\n\n+オーガナイザーイベント限定ダイス\n\n3位\n\nクロスタ第5弾IGV 2BOX\n\n+オーガナイザーイベント限定ダイス\n\n4位\n\nクロスタ第5弾IGV 1BOX\n\n+オーガナイザーイベント限定ダイス\n\n5〜8位\n\nクロスタ第5弾IGV　3パックorコーギーアール名古屋店で使用出来る2,000円相当の商品券\n\n９〜14位\n\nコーギーアール名古屋店で使用出来る1,000円相当の商品券\n\n\n\n\n\n\n\n☆事前の参加申込数に応じてお楽しみ賞も検討しております。抽選など詳しい詳細は当日１回戦前にアナウンスさせていただきます。\n\n\n\n\n■対戦形式\n\n・予選5回戦 フルマッチ35分1本勝負 スイスドロー形式(途中で全勝者が1人になっても必ず５回戦行います。)\n\n・決勝トーナメント4回戦 フルマッチ35分1本勝負\n\n\n\n\n【注意事項】\n\n・当大会は大会当日までに発表されているLimitedカードおよびBANカードのルールを適応致します。\n\n・予選ラウンドのタイムアップは全て両者敗北とさせていただきます。\n\n・決勝トーナメント1回戦2回戦でのタイムアップ時はタイムアップ",
       "raw_json": {
         "id": "wbFvs",
         "title": "第3回　強奪の宴杯　カートン争奪",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "contact": "@Goudatuhai",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 3
     },
     "RXsBE": {
@@ -4243,7 +4358,7 @@
       "capacity_num": 16,
       "fee_num": 500,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集前\n\nMINT OKINAWA CUP #1\n2026/11/14(土)\nイオンモールライカム　4F\n¥ 500\n0/16\nミント沖縄店\nXrossStars",
       "raw_json": {
@@ -4256,7 +4371,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-27T16:47:20.887159+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 2
     },
     "zU6ZN": {
@@ -4279,20 +4394,24 @@
       "capacity_num": 32,
       "fee_num": 2000,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n第１回　ヴァリアブルピック杯\n2026/11/15(日)\n愛知県名古屋市中村区椿町１３−４ スパーク椿町Ⅰ 6F\n¥ 2,000\n12/32\nヴァリアブルピック杯\nXrossStars",
+      "raw_text": "第１回　ヴァリアブルピック杯\n主催：\nヴァリアブルピック杯\nXrossStars\nイベント開始予定\n2026/11/15(日) 12:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みかつチェックイン済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n当大会では基本ルール、総合ルール共にXross Stars公式の最新ルールに準ずるものとさせていただきます。また、当大会は株式会社Game&Co様によるものではありません。\n\n当大会はクロスタオーガナイザー制度適用大会ではありません。\n\n\n\n\n【大会内容・ルールについて】\n\n■対戦形式\n\n・個人戦 予選5回戦 フルマッチ35分1本勝負 スイスドロー形式\n\n・決勝トーナメント3回戦 フルマッチ35分1本勝負\n\n\n\n\n■持ち物\n\n・スマートフォン\n\n・大会に使用するデッキ\n\n・大会に使用するスリーブ\n\n・参加費2000円\n\n\n\n\n■大会スケジュール\n\n11:00~11:50 大会受付\n\n11:50~12:00 開会式\n\n12:00~12:35 予選1回戦\n\n12:45~13:20 予選2回戦\n\n13:30~14:05 予選3回戦\n\n14:15~14:50 予選4回戦\n\n15:00~15:35 予選5回戦\n\n15:35~15:45 ランダム賞抽選会\n\n(トナメルの順位表に準拠し、上位8名が決勝トーナメントへ出場)\n\n16:00~16:35 決勝トーナメント1回戦目\n\n16:40~17:15 準決勝\n\n17:20~17:55 決勝&3位決定戦\n\n※当日の進行具合によりスケジュール変更の場合がございます。\n\n\n\n\n\n\n\n■大会賞品\n\n参加人数に応じて賞品の内容が変更される場合があります。ご了承ください\n\n\n\n\nまた参加人数に応じてランダム賞の配布がございます！！\n\n\n\n\n・参加人数32名の場合\n\n\n\n\n1位\n\n第5弾【Ignition Vortex】3BOX\n\n2位\n\n第5弾【Ignition Vortex】2BOX\n\n3位\n\n第5弾【Ignition Vortex】1BOX\n\n4位\n\nコーギーアール名古屋店で当日限り使用できる3000円分の商品券\n\nベスト8\n\nコーギーアール名古屋店で当日限り使用できる1500円分の商品券\n\n\n\n\n参加賞\n\nコーギーアール名古屋店で当日限り使用できる300円分の商品券\n\nさらに、前日開催の「強奪の宴杯」と本大会の両方にご参加いただいた方には、第5弾【Ignition Vortex】1パックを追加でプレゼント！\n\n\n\n\n【注意事項】\n\n【１】ルールについて\n\n・基本的にXross Stars公式サイトのフロアルールにしたがってセルフジャッジでお願いいたします。\n\n・時間切れの場合、予選は両者敗北扱いとなります。決勝トーナメントにつきましては順位決定のため試合時間を延長する場合がございますが、時間内に対戦を完了できますようご協力をお願いします。\n\n【２】デッキリストについて\n\n・当日受付前までにデッキリストの登録をお願いします。エントリー時にデッキリストを要求されますが、当日受付までは変更可能です。\n\n・大会中にデッキの変更は出来ません。\n\n・上位入賞者の方にデッキレシピの公開、また全回戦において対戦動画の撮影の協力をお願いします。こちら原則として拒否することができないものとさせていただきます。ご理解いただいた上で大会にご参加、登録をお願いします。\n\n・撮影した対戦動画はルールミス、",
       "raw_json": {
         "id": "zU6ZN",
         "title": "第１回　ヴァリアブルピック杯",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "contact": "X(旧Twitter):@massu_zako",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T17:27:26.024460+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 1
     },
     "qfYdV": {
@@ -4315,7 +4434,7 @@
       "capacity_num": 32,
       "fee_num": 2000,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\n第1回　ONE☆PACKクロスタCUP　個人戦\n2026/11/15(日)\n群馬県桐生市末広町6-10スワンシティ1階\n¥ 2,000\n5/32\nカードショップONE☆PACK\nXrossStars",
       "raw_json": {
@@ -4328,7 +4447,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-10T17:29:05.440363+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 1
     },
     "PzAvv": {
@@ -4341,7 +4460,7 @@
       "format": "オフライン",
       "venue": "ドラグーン博多店",
       "address": "〒812-0011 福岡県福岡市博多区博多駅前１丁目３−２２ かき善ビル 4F",
-      "organizer": "イベント）",
+      "organizer": "火蝶杯（公認オーガナイザーイベント）",
       "entry_fee": "1000円 / 1人（決済は当日会場で支払いになります）",
       "capacity": "48人",
       "entry_period": "2026/09/29(火) 19:00 〜",
@@ -4351,21 +4470,24 @@
       "capacity_num": 48,
       "fee_num": 1000,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n第14回　火蝶杯（かちょうはい）\n2026/11/15(日)\n〒812-0011 福岡県福岡市博多区博多駅前１丁目３−２２ かき善ビル 4F\n¥ 1,000\n7/48\n火蝶杯（公認オーガナイザーイベント）\nXrossStars",
+      "raw_text": "第14回　火蝶杯（かちょうはい）\n主催：\n火蝶杯（公認オーガナイザーイベント）\nXrossStars\nイベント開始予定\n2026/11/15(日) 14:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n48人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n主催挨拶\n\nこんにちは！カガリと申します。\nクロススターズのイベント主催は不慣れなので、ご迷惑をお掛けするかもしれませんが、皆さんが楽しんでもらえる大会にできるように頑張ります！宜しくお願いします！\n\n毎月定期的に火蝶杯を開催しますので、是非ご参加下さい\n\n何かイベントに関する質問･お問い合わせや、キャンセル等の連絡がありましたらTwitter(@kagari_8215 )までご連絡下さい！\n\n※詳細はルール項目に記載しています。必ず確認下さい。\n\nイベント概要\n\n\n\n\n※本イベントはカガリ（@kagari_8215）の\n\n行う自主イベントになります。\n\n\n\n\n※「当主催が開催するXross Starsのイベントすべてが、公認オーガナイザーイベントとして承認を受けているわけではありません。」\n\n\nイベント名\n\n第14回　火蝶杯(公認オーガナイザーイベント)\n\n開催日 \n2026/11/15(日)\n\n開催場所 \n福岡県 ドラグーン博多店\n\n対戦形式 \n個人戦（予選スイス 5-6回戦 ＋ 決勝トーナメント 2回戦）\n※人数により変動します。\n定員 \n48名\n\n参加費 \n1000円 / 1人（決済は当日会場で支払いになります）\n\n\n\n※参加費はすべて大会運営費並びに会場利用料に使用され、景品等のためには一切使用しません。\n\n\n抽選方法 \n先着順\n\n\n\n\n優勝　2BOX(予定)+プレイマット\n\nその他上位賞用意\n\n※各種景品について \n\n火蝶杯の景品につきましてはXrossStars公式様並びに ドラグーン博多店様より無償提供されるものを使用し開催いたします。\n\n\n\n\n参加賞 ブースターパック 1パック\n\n\nイベント参加に必要な物\n\n・イベント参加するために必要な物です。必ず持参して下さい。\n・イベントに使用する　スマホ\n・対戦に必要なもの デッキ・ダメカン等\n・身分が確認できる物（当日確認する場合がございます）\n・イベント参加費\n\nイベントスケジュール\n\n13:30- イベント受付\n14：00- 開会式＋マッチング\n14：10- 予選スイスドロー1回戦\n-18：00頃 表彰式\n※当日の進行具合により、スケジュールが変更される場合があります。\n\nイベントルール\n\n■構築ルール\n\n● イベント当日の構築制限･構築基準にのっとったデッキを使用してください。\n\n■対戦形式について\n\n● 予選5-6回戦のスイスドローの後、オポネント計算の上、\n上位4名によるトーナメント形式による決勝トーナメントを行います。\n※予選回数、及び決勝トーナメント進出者は、参加人数によって増減します。ご了承下さい。\n\n● 制限時間は予選決勝共に30分の2本先取(フルマッチ)にて行います。\n┗〇時間切れに関しては、予選ラウンドは両者敗北とします。\n\n\n● 決勝トーナメントにて時間切れをした場合エクストラターンを設けターンプレイヤーを\n\n０ターン目とし交互にターンを行い３ターン目まで行います。それでも決着つかなかった場合以下の処理順にて勝敗を決します。\n　　1.リーダーのダウン枚数(同数場合は次へ)\n　　2.じゃんけんの勝者\n\n\n● その他、大ま",
       "raw_json": {
         "id": "PzAvv",
         "title": "第14回　火蝶杯（かちょうはい）",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-09-29T20:26:10.756510+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
-      "seq": 131
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
+      "seq": 132
     },
     "AAxnk": {
       "id": "AAxnk",
@@ -4387,20 +4509,23 @@
       "capacity_num": 32,
       "fee_num": 1000,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n第２回らいす杯 ～BOX争奪戦～\n2026/11/21(土)\n新潟県新潟市中央区上近江4-12-20DEKKY401地下階\n28/32\n（仮）新潟クロスタ\nXrossStars",
+      "raw_text": "第２回らいす杯 ～BOX争奪戦～\n主催：\n（仮）新潟クロスタ\nXrossStars\nイベント開始予定\n2026/11/21(土) 12:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nチェックイン後のエントリー先着順\nチェックインした中でエントリーした日時が早い順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n全ての説明に目を通した上で参加登録をお願いします。\n\n\n\n\n■開催日時\n\n2026年11月21日(土)　\n\n受付：11:00～\n\n開始：12:00～\n\n\n\n\n■開催場所\n\nCARDBASE JABURO 様\n\n新潟県新潟市中央区上近江4-12-20DEKKY401地下階\n\n\n\n\n■参加定員\n\n32人　先着順\n\n※希望者多数の場合、増員あり\n\n\n\n\n■参加費\n\n１０００円/人\n\n※参加費はすべて大会運営費並びに会場利用料に使用され、景品等のためには一切使用しません。\n\n\n\n\n■参加キャンセルについて\n\n参加登録をしたトナメルからキャンセルをしてください。\n\n2026年11月20日(金)　23:00までキャンセルを受け付けます。\n\n無断キャンセル、期限外のキャンセルについてはキャンセル料が発生いたします。\n\n\n\n\n■大会内容\n\n試合時間　３５分\n\n※時間切れの場合両者敗北\n\n基本的にはセルフジャッジとなりますが、お困りになった場合は運営までお声がけください。\n\n●予選\n\nスイスドロー形式　全５回戦\n\n予選終了後、上位８名が決勝トーナメント進出\n\n●決勝\n\nトーナメント形式　全３回戦\n\n１～８位まで順位を確定させます。\n\n\n\n\n■スケジュール\n\n※目安の時間のため、対戦次第ではスケジュールが前後いたします。\n\n\n\n\n・事前説明\n\n※今回からデッキチェックがあるため、お早めに会場にお越しください。\n\n大会受付　：11:00～11:50\n\n事前説明　：11:50～\n\n\n\n\n・予選ラウンド\n\n予選１回戦：12:00〜12:35\n\n予選２回戦：12:40〜13:15\n\n予選３回戦：13:20〜13:55\n\n予選４回戦：14:00〜14:35\n\n予選５回戦：14:40～15:15\n\n\n\n\n・決勝ラウンド\n\n準々決勝　：15:30~16:05\n\n準決勝　　：16:10~16:45\n\n決勝　　　：16:45~\n\n\n\n\n■賞品（暫定、調整中）\n\n１位　第5弾『Ignition Vortex』３BOX\n\n２位　第5弾『Ignition Vortex』２BOX\n\n３位　第5弾『Ignition Vortex』１BOX\n\n４位　第5弾『Ignition Vortex』８パック\n\n５～８位　CARDBASE JABURO 様で利用できる１０００円の金券＋４位のあまり各１パック\n\n\n\n\n■持ち物\n\n・デッキ\n\n・替えスリーブ\n\n・ダメカン\n\n\n\n\n■その他、注意事項\n\n・エントリー時に連絡が可能なXのアカウントIDを入力してください。入力されない、またはご連絡できない場合は運営上キャンセルさせていただく場合があります。\n\n・当日キャンセル、遅刻は他の参加者にもご迷惑となりますので、お早めに運営までご連絡ください。\n\n・対戦中は思いやりを持って対戦をお願いいたします。周りの人に迷惑をかける行為等をされた際は、運営判断で途中退場させていただきます。\n\n・１～４位までの方にはデッキリストを公開させていただきますので、ご協力のほどよろしくお願いいたします。\n\n・開催中は写真撮影にご協力ください。X等で投稿しますが、顔な",
       "raw_json": {
         "id": "AAxnk",
         "title": "第２回らいす杯 ～BOX争奪戦～",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-09-06T20:26:23.839588+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "ZNr8W": {
@@ -4423,7 +4548,7 @@
       "capacity_num": 35,
       "fee_num": 200,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\nXross Stars練習会 #6\n2026/11/22(日)\n〒343-0813 埼玉県越谷市越ヶ谷４丁目１−１\n¥ 200\n4/35\nクロスタ川口界隈\nXrossStars",
       "raw_json": {
@@ -4437,7 +4562,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-17T21:14:20.819967+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "WCuE7": {
@@ -4460,7 +4585,7 @@
       "capacity_num": 32,
       "fee_num": 1000,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\n第2回 がぶかっぷ\n2026/11/22(日)\n〒380-0824 長野県長野市南石堂町１２７９−３ 石堂ビル 南 2階\n¥ 1,000\n24/32\nがぶかっぷ\nXrossStars",
       "raw_json": {
@@ -4473,7 +4598,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-02T23:21:35.798817+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "9GmtZ": {
@@ -4532,20 +4657,23 @@
       "capacity_num": 32,
       "fee_num": 1000,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n第2回　ベドチキ杯\n2026/11/22(日)\n大阪府大阪市北区梅田1-1-3 大阪駅前第3ビル2F-21\n¥ 1,000\n54/32\nベドチキ杯\nXrossStars",
+      "raw_text": "第2回　ベドチキ杯\n主催：\nベドチキ杯\nXrossStars\nイベント開始予定\n2026/11/22(日) 12:30 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n■ご挨拶\n\nありがたいことに第2回を開催させていただく運びとなりました。\n\nCC1週間前の調整にぜひご参加ください！\n\n\n\n\n■大会概要\n\n参加費：1000円(当日受付にて徴収します)\n\n※現金のみ\n\n大会形式：フルマッチ\n\n\n\n\n予選\n\nスイスドロー最大5回戦\n\n※参加人数に応じて変更の可能性あり\n\n\n\n\n決勝ラウンド\n\n上位8名による決勝トーナメント\n\n※参加人数に応じて変更の可能性あり\n\n\n\n\n■大会に必要なもの\n\nデッキ\n\nダメカン(代用可)\n\n\n\n\n■スケジュール\n\n受付：12:00～12:30\n\nマッチングおよび対戦準備：12:30～12:45\n\n1回戦：12:50～13:25\n\n2回戦：13:30～14:05\n\n3回戦：14:10～14:45\n\n4回戦：14:50～15:25\n\n5回戦：15:30～16:05\n\nランダム賞配布：16:05～16:20\n\nトーナメント：16:30～\n\n\n\n\n■賞品(参加人数により変動します)\n\n優勝：第5弾「イグニッション・ボルテックス」\n\n2〜1BOX引換券\n\n\n\n\n2位: 第5弾「イグニッション・ボルテックス」\n\n1BOX〜6パック引換券\n\n\n\n\n3〜4位: 第5弾「イグニッション・ボルテックス」\n\n6〜0パック引換券\n\n\n\n\nその他ランダム賞あります！\n\n※賞品内容は参加人数により変更する場合がございます。\n\n\n\n\n■マッチング方法\n\nトナメルでマッチングを一斉に公開します。\n\n2回戦以降も全ての参加者が前の試合の結果登録完了後に一斉にマッチングを公開します。\n\n\n\n\n■大会ルール\n\n・対戦時間35分\n\n・フルマッチ\n\n・開催日までに発売、配布されたカードのみ使用可能\n\n・プロキシ(代用カード)の使用不可\n\n・大会途中でのデッキ変更不可\n\n・巻き戻し無し\n\n・終了コール時点で決着が着いていない卓は両者敗北となります。\n\n　※決勝トーナメントのみ35分経過時点を0ターンとして、エクストラターン3ターンを設けます。\n\n　　3ターン経過後決着がついていない場合には経過時に以下を比較します。\n\n　　(1つ目を比較した時点で差がある場合にはその時点で判断)\n\n　　1.ラウンド取得数\n\n　　2.ダウンさせたリーダー数\n\n　　3.与えている総ダメージ量\n\n例：3ラウンド目プレイヤーAの先攻1ターン目に時間切れの場合\n\n　0ターン目：プレイヤーA先攻1ターン目\n\n　1ターン目：プレイヤーB後攻1ターン目\n\n　2ターン目：プレイヤーA先攻2ターン目\n\n　3ターン目：プレイヤーB後攻2ターン目\n\n　　プレイヤーAの盤面：2ダウンと80ダメージ\n\n　　プレイヤーBの盤面：3ダウンと10ダメージ\n\n　プレイヤーA側が「3ダウンと10ダメージ」を与えているため、プレイヤーA側の勝利\n\n\n\n\n・対戦中はセルフジャッジとなります。\n\nセルフジャッジで決まらない場合は試合時間を止めて主催がジャッジします！\n\n・決勝トーナメント1回戦のみ予選順位の高い方が先攻後攻を選択できます。\n\n\n\n\n■キャンセル\n\n当日受付終了時に定員に満たない場合は、当日枠をキャンセル待ち順にて募集します。ご希望の方は受付終了時間までに受付にてお申し",
       "raw_json": {
         "id": "nTEQd",
         "title": "第2回　ベドチキ杯",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-09-24T20:24:46.441466+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "Czfza": {
@@ -4568,7 +4696,7 @@
       "capacity_num": 32,
       "fee_num": 1000,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\n第3回 るなっつ杯@福岡\n2026/11/22(日)\n〒812-0896 福岡県福岡市博多区東光寺町２丁目６−４０ コマーシャルモール博多 １Ｆ\n¥ 1,000\n1/32\nるなっつ杯\nXrossStars",
       "raw_json": {
@@ -4581,7 +4709,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:16:55.052455+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "26HmF": {
@@ -4604,7 +4732,7 @@
       "capacity_num": 32,
       "fee_num": 1000,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\n第3回　Xross Cheers杯\n2026/11/22(日)\n〒810-0001 福岡県福岡市中央区天神３丁目４−１０ 天神西茂ビル 2階\n¥ 1,000\n2/32\nしん\nXrossStars",
       "raw_json": {
@@ -4617,7 +4745,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-19T16:45:28.066759+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "i6ZDX": {
@@ -4640,7 +4768,7 @@
       "capacity_num": 40,
       "fee_num": 200,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\nXross Stars練習会 #7\n2026/11/23(月)\n〒343-0813 埼玉県越谷市越ヶ谷４丁目１−１\n¥ 200\n1/40\nクロスタ川口界隈\nXrossStars",
       "raw_json": {
@@ -4654,7 +4782,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-17T21:14:20.819967+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "XuX01": {
@@ -4667,7 +4795,7 @@
       "format": "オフライン",
       "venue": "竜星のPAO秋葉原ロケット無線店",
       "address": "東京都千代田区外神田1-4-6 ロケットアマチュア無線本館ビル",
-      "organizer": "】第15回 GUILD CUP",
+      "organizer": "クロスギルド-XROSSGUILD-",
       "entry_fee": "1,500円 ※当日支払い",
       "capacity": "64人",
       "entry_period": "2026/10/20(火) 19:00 〜",
@@ -4677,21 +4805,25 @@
       "capacity_num": 64,
       "fee_num": 1500,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n【クロスギルド主催】第15回 GUILD CUP\n2026/11/23(月)\n東京都千代田区外神田1-4-6 ロケットアマチュア無線本館ビル\n¥ 1,500\n10/64\nクロスギルド-XROSSGUILD-\nXrossStars",
+      "raw_text": "【クロスギルド主催】第15回 GUILD CUP\n主催：\nクロスギルド-XROSSGUILD-\nXrossStars\nイベント開始予定\n2026/11/23(月) 10:30 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n64人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n【クロスギルド主催】第15回 GUILD CUP\n\n〇大会概要\n\n竜星のPAO秋葉原ロケット無線店 様で公認CSを開催！\n\n\n\n\n今回は個人戦＆縛りなしでの開催です☺\n\n\n\n\nランダム賞もございます✨✨\n\n\n\n\n🗓開催日時\n\n2026年11月23日（月・祝）10:30開始（10:15受付開始予定）\n\n\n\n\n📍開催場所\n\n竜星のPAO秋葉原ロケット無線店 様\n\n東京都千代田区外神田1-4-6 ロケットアマチュア無線本館ビル\n\n\n\n\n💴参加費\n\n1,500円 ※当日支払い\n\n\n\n\n👥定員\n\n64名（先着順）\n\n\n\n\n⌚当日スケジュール\n\n大会受付　10:15〜10:30\n\n※当日受付(非予約者)も空きがあれば可能です！\n\n1試合35分\n\n・1戦目開始　10:30～\n\n\n\n\n📚ルール\n\n・スイスドロー形式(全勝者が出るまでマッチング)\n\n・フルマッチ\n\n・決勝トーナメントなし\n\n・巻き戻しなし\n\n\n\n\n👜持ち物\n\n使用デッキ・スマホ・参加費(現金のみ)\n\n\n\n\n🎊順位賞🎊\n\n1位:第5弾『Ignition Vortex』 3BOX\n\n\n\n\n2位:第5弾『Ignition Vortex』 2BOX\n\n\n\n\n3位:第5弾『Ignition Vortex』 1BOX\n\n\n\n\n1位～4位:公認イベント限定”黒ダイス”1個\n\n\n\n\nランダム賞:未定\n\n\n\n\n参加賞:『Ignition Vortex』1パック\n\n\n\n\n※順位賞は参加人数が少なければ減少いたします。\n\n\n\n\n順位賞の最終確定個数は開催前日の夜にTwitter上で発表いたします。\n\n\n\n\n✅備考\n\n・何かご不明な点がございましたらTwitterまでご連絡ください。\n\n\n\n\n■ ご注意事項\n\nトナメル上での事前エントリーが必要です。当日受付もございます。\n\n\n\n\nルールやマナーを守り、皆さまが気持ちよく楽しめる大会となるようご協力をお願いいたします。\n\n\n\n\nキャンセルされる場合は、必ずトナメル上にてキャンセル処理をお願いいたします。\n\n\n\n\n大会中に撮影させていただいたお写真が、竜星のPAO秋葉原ロケット無線店 様や私共のTwitterに載る場合がございます。(お顔はお隠しいたします)\n\n\n\n\nお問い合わせは全てクロスギルド宛にご連絡ください。\n\n決して、竜星のPAO秋葉原ロケット無線店 様にはお問い合わせしないよう、お願いいたします。\n\n\n\n\n📞お問い合わせ先：\n\nクロスギルド--XROSSGUILD--\n\nTwitter：@ZX9RMahnL531517\n\n\n\n\n協賛:この大会は、竜星のPAO秋葉原ロケット無線店(@PAOtoreka_akiba)の提供で開催させていただきます。\n\n続きを読む\n開催場所\n竜星のPAO秋葉原ロケット無線店\n東京都千代田区外神田1-4-6 ロケットアマチュア無線本館ビル\n連絡先\nx.com/Xross_Guild\nシェア\nイベントID\nXuX01\n\nイベントに参加\n\nエントリー\n募集人数\n10/64人\n支払い済み人数\n0/64人\nエントリー料\n¥ 1,500\n募集人数の上限を超えた場合\nエントリー先着順\nエン",
       "raw_json": {
         "id": "XuX01",
         "title": "【クロスギルド主催】第15回 GUILD CUP ",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "contact": "https://x.com/Xross_Guild",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-10-20T22:37:11.583528+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
-      "seq": 45
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
+      "seq": 46
     },
     "pYxW8": {
       "id": "pYxW8",
@@ -4713,7 +4845,7 @@
       "capacity_num": 32,
       "fee_num": null,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\n-第2回-つな友杯\n2026/11/23(月)\n宮崎県宮崎市橘通東4丁目8-1 カリーノ宮崎 2F\n¥ 1,000\n3/32\nシュウマイ\nXrossStars",
       "raw_json": {
@@ -4726,7 +4858,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-18T21:40:58.878367+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "ZwUh6": {
@@ -4749,7 +4881,7 @@
       "capacity_num": 16,
       "fee_num": 500,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\n11月非公認大会『Ignition Vortex』BOX争奪戦③\n2026/11/23(月)\n〒277-0005 千葉県柏市柏１丁目２−２６ 柏モディ ５F\n¥ 500\n7/16\nまちキャラ柏モディ店\nXrossStars",
       "raw_json": {
@@ -4762,7 +4894,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:16:55.052455+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "bYdMI": {
@@ -4785,7 +4917,7 @@
       "capacity_num": 16,
       "fee_num": 500,
       "is_online": false,
-      "source": "detail",
+      "source": "api",
       "detail_version": 2,
       "raw_text": "募集中\n\n第3回 Xross Stars BOX争奪戦\n2026/11/29(日)\n山形県東田川郡三川町 大字猪子字和田庫128－1 2F\n1/16\n宝島イオンモール\nXrossStars",
       "raw_json": {
@@ -4798,7 +4930,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-29T20:31:13.154025+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 0
     },
     "Avj2H": {
@@ -4811,7 +4943,7 @@
       "format": "オフライン",
       "venue": "ドラグーン博多店",
       "address": "〒812-0011 福岡県福岡市博多区博多駅前１丁目３−２２ かき善ビル 4F",
-      "organizer": "イベント）",
+      "organizer": "火蝶杯（公認オーガナイザーイベント）",
       "entry_fee": "1000円 / 1人（決済は当日会場で支払いになります）",
       "capacity": "48人",
       "entry_period": "2026/09/30(水) 17:00 〜",
@@ -4821,21 +4953,24 @@
       "capacity_num": 48,
       "fee_num": 1000,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n第15回　火蝶杯（かちょうはい）\n2026/12/13(日)\n〒812-0011 福岡県福岡市博多区博多駅前１丁目３−２２ かき善ビル 4F\n¥ 1,000\n2/48\n火蝶杯（公認オーガナイザーイベント）\nXrossStars",
+      "raw_text": "第15回　火蝶杯（かちょうはい）\n主催：\n火蝶杯（公認オーガナイザーイベント）\nXrossStars\nイベント開始予定\n2026/12/13(日) 14:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n48人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n主催挨拶\n\nこんにちは！カガリと申します。\nクロススターズのイベント主催は不慣れなので、ご迷惑をお掛けするかもしれませんが、皆さんが楽しんでもらえる大会にできるように頑張ります！宜しくお願いします！\n\n毎月定期的に火蝶杯を開催しますので、是非ご参加下さい\n\n何かイベントに関する質問･お問い合わせや、キャンセル等の連絡がありましたらTwitter(@kagari_8215 )までご連絡下さい！\n\n※詳細はルール項目に記載しています。必ず確認下さい。\n\nイベント概要\n\n\n\n\n※本イベントはカガリ（@kagari_8215）の\n\n行う自主イベントになります。\n\n\n\n\n※「当主催が開催するXross Starsのイベントすべてが、公認オーガナイザーイベントとして承認を受けているわけではありません。」\n\n\nイベント名\n\n第14回　火蝶杯(公認オーガナイザーイベント)\n\n開催日 \n2026/12/13(日)\n\n開催場所 \n福岡県 ドラグーン博多店\n\n対戦形式 \n個人戦（予選スイス 5-6回戦 ＋ 決勝トーナメント 2回戦）\n※人数により変動します。\n定員 \n48名\n\n参加費 \n1000円 / 1人（決済は当日会場で支払いになります）\n\n\n\n※参加費はすべて大会運営費並びに会場利用料に使用され、景品等のためには一切使用しません。\n\n\n抽選方法 \n先着順\n\n\n\n\n優勝　2BOX(予定)+プレイマット\n\nその他上位賞用意\n\n※各種景品について \n\n火蝶杯の景品につきましてはXrossStars公式様並びに ドラグーン博多店様より無償提供されるものを使用し開催いたします。\n\n\n\n\n参加賞 ブースターパック 1パック\n\n\nイベント参加に必要な物\n\n・イベント参加するために必要な物です。必ず持参して下さい。\n・イベントに使用する　スマホ\n・対戦に必要なもの デッキ・ダメカン等\n・身分が確認できる物（当日確認する場合がございます）\n・イベント参加費\n\nイベントスケジュール\n\n13:30- イベント受付\n14：00- 開会式＋マッチング\n14：10- 予選スイスドロー1回戦\n-18：00頃 表彰式\n※当日の進行具合により、スケジュールが変更される場合があります。\n\nイベントルール\n\n■構築ルール\n\n● イベント当日の構築制限･構築基準にのっとったデッキを使用してください。\n\n■対戦形式について\n\n● 予選5-6回戦のスイスドローの後、オポネント計算の上、\n上位4名によるトーナメント形式による決勝トーナメントを行います。\n※予選回数、及び決勝トーナメント進出者は、参加人数によって増減します。ご了承下さい。\n\n● 制限時間は予選決勝共に30分の2本先取(フルマッチ)にて行います。\n┗〇時間切れに関しては、予選ラウンドは両者敗北とします。\n\n\n● 決勝トーナメントにて時間切れをした場合エクストラターンを設けターンプレイヤーを\n\n０ターン目とし交互にターンを行い３ターン目まで行います。それでも決着つかなかった場合以下の処理順にて勝敗を決します。\n　　1.リーダーのダウン枚数(同数場合は次へ)\n　　2.じゃんけんの勝者\n\n\n● その他、大ま",
       "raw_json": {
         "id": "Avj2H",
         "title": "第15回　火蝶杯（かちょうはい）",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T17:27:26.024460+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
-      "seq": 127
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
+      "seq": 128
     },
     "Q3g0B": {
       "id": "Q3g0B",
@@ -4857,20 +4992,23 @@
       "capacity_num": 32,
       "fee_num": 1000,
       "is_online": false,
-      "source": "api",
+      "source": "detail",
       "detail_version": 2,
-      "raw_text": "募集中\n\n第3回 xross stars 金糸雀杯\n2026/12/26(土)\n〒982-0021 宮城県仙台市青葉区中央３丁目６−１ 西館 地下1階\n¥ 1,000\n1/32\n金糸雀杯\nXrossStars",
+      "raw_text": "第3回 xross stars 金糸雀杯\n主催：\n金糸雀杯\nXrossStars\nイベント開始予定\n2026/12/26(土) 11:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n\n〇挨拶\n\n\n\n\nこんにちはー\n\nxrossstars 金糸雀杯 を開催させていただきます。\n\n今回は    店様にて開催させていただきます〜！\n\n大会運営の七海(@horizon_kogaraV)と申します。\n\nぶいすぽ最推し⇒小雀とと\n\nネオポルテ最推し⇒絲依とい\n\nにじさんじ最推し⇒獅子堂あかり\n\n小さい命が好きです。\n\nよろしくお願い致します！\n\n\n\n\n宮城県ないし東北でのクロススターズを盛り上げたい！\n\nモチベを維持して流行らせたい！という一心で大会を開催させていただきます。\n\n\n\n\nこれから月1〜で継続的に開催させていただきますので是非ともご参加していただけると幸いです！\n\nこれを機に初めてカードゲームをする方も気軽にご参加頂ければ嬉しいです！\n\n\n\n\n今後継続的に来てくれる方や優勝者には今後良い待遇も…!?\n\n\n\n\n〇運営アカウント\n\n七海(@horizon_kogaraV)のフォローをお願いいたします！！\n\n\n\n\n何かあった際はこちらから連絡をさせていただく場合がございますのでご了承ください。\n\n\n\n\n《大会概要》\n\n\n\n\n大会名 : 金糸雀杯(カナリアはい)\n\n開催日:2026/12/26\n\n開催場所:シーガル仙台駅前店\n\n対戦形式:個人戦\n\n予選スイス 5回戦 ＋ 決勝Ｔ3回戦※6名抜け\n\n定員：32人\n\n参加費：1000円 / 1人\n\n抽選方法：先着順\n\n\n\n\n《大会参加に必要なもの》\n\n\n\n\n大会参加するために必要な物です。\n\n必ず持参して下さい。\n\n\n\n\n・使用するデッキ(スリーブ込み)\n\n・予備のスリーブ\n\n・ダメージカウンター,サイコロ等(スマホ❌)\n\n・身分が確認できるもの（免許証、保険証等）\n\n・大会参加費(現金)\n\n・デッキリスト\n\nトナメルにて提出になります。\n\n運営以外に確認できない設定のためご安心ください。\n\n・スマートフォン(大会中の確認は無し)\n\n\n\n\n《大会スケジュール》\n\n\n\n\n大会受付 \n10:30\n\n受付締切\n11:00\n\n大会開催の挨拶\n\n11:05\n\n1回戦目\n\n11:10〜11:45\n\n2回戦目\n\n11:50〜12:25\n\n3回戦目\n\n12:30〜13:05\n\n4回戦目\n\n13:10〜13:45\n\n5回戦目\n\n13:50〜14:25\n\n休憩,予選通過者確定,発表\n\n14:25〜15:00\n\n決勝トーナメント1回戦目\n\n15:05〜15:40\n\n決勝トーナメント2回戦目\n\n15:45〜16:20\n\n決勝戦\n\n16:25〜17:00\n\n結果発表、商品授与\n\n17:05〜\n\n\n\n\n※当日の進行具合により、スケジュールが変更される場合があります。\n\n\n\n\n《大会ルール》\n\n\n\n\n基本は公認大会のレギュレーションに準拠します。\n\n\n\n\n禁止制限改訂があった場合は別途主催かえるのすけ（＠horizon_kogaraV）よりアナウンスいたします。\n\n\n\n\n・デッキリストについて\n\n\n\nトナメルにてデッキリストの提出をお願い致します。\n\n期限は当日受付までとなりますのでご了承ください。\n\n\n\n\n提出が遅れる場合はご一報いただけると幸いです。\n\n\n\n\n・大会参加費について\n\n\n\n\n",
       "raw_json": {
         "id": "Q3g0B",
         "title": "第3回 xross stars 金糸雀杯",
-        "status": "OPENED",
+        "region": "JP",
+        "useDetailEntryMenu": false,
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "region": "JP",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-31T11:18:26.822278+09:00",
+      "last_updated": "2026-10-31T19:55:24.903214+09:00",
       "seq": 2
     }
   }
