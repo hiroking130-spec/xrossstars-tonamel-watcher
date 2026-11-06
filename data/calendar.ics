@@ -1774,13 +1774,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-MGpdw@xrossstars-watcher
 DTSTAMP:20261010T161847Z
-SEQUENCE:0
+SEQUENCE:1
 DTSTART:20261108T040000Z
 DTEND:20261108T080000Z
 SUMMARY:星剣杯
 DESCRIPTION:会場: オフライン / レプトン　サンモール店\n
  主催: ORCup\n参加費: 】1000円(当日現金でお願いします。
- ）\n定員: 24人\nエントリー期間: 2026/10/10(土) 21:00 〜\n\nht
+ ）\n定員: 32人\nエントリー期間: 2026/10/10(土) 21:00 〜\n\nht
  tps://tonamel.com/competition/MGpdw
 URL:https://tonamel.com/competition/MGpdw
 LOCATION:レプトン　サンモール店
@@ -1899,14 +1899,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-PzAvv@xrossstars-watcher
 DTSTAMP:20260929T112610Z
-SEQUENCE:151
+SEQUENCE:152
 DTSTART:20261115T050000Z
 DTEND:20261115T090000Z
 SUMMARY:第14回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 48人\nエントリー期間: 2026/09/29(
- 火) 19:00 〜\n\nhttps://tonamel.com/competition/PzAvv
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 48人\
+ nエントリー期間: 2026/09/29(火) 19:00 〜\n\nhttps://tonamel.com/c
+ ompetition/PzAvv
 URL:https://tonamel.com/competition/PzAvv
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -1946,6 +1947,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-TWIiw@xrossstars-watcher
+DTSTAMP:20261106T125517Z
+SEQUENCE:0
+DTSTART:20261121T030000Z
+DTEND:20261121T070000Z
+SUMMARY:第4回　fam　CUP
+DESCRIPTION:会場: オフライン / トレカプラザ名古屋駅前店\
+ n主催: トレカプラザ名古屋駅前店\n定員: 32人\nエントリ
+ ー期間: 2026/11/06(金) 13:00 〜\n\nhttps://tonamel.com/competition/TW
+ Iiw
+URL:https://tonamel.com/competition/TWIiw
+LOCATION:トレカプラザ名古屋駅前店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-rtMw2@xrossstars-watcher
 DTSTAMP:20261104T204834Z
 SEQUENCE:0
@@ -1974,6 +1991,22 @@ DESCRIPTION:会場: オフライン / 越谷市中央市民会館第８会
  competition/ZNr8W
 URL:https://tonamel.com/competition/ZNr8W
 LOCATION:越谷市中央市民会館第８会議室
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-KkqyE@xrossstars-watcher
+DTSTAMP:20261106T125517Z
+SEQUENCE:0
+DTSTART:20261122T020000Z
+DTEND:20261122T060000Z
+SUMMARY:第34回︎🌟1部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: なな
+ め会議\n参加費: 1500円(現金のみになります)\n定員: 32人\
+ nエントリー期間: 2026/11/07(土) 21:00 〜\n\nhttps://tonamel.com/c
+ ompetition/KkqyE
+URL:https://tonamel.com/competition/KkqyE
+LOCATION:トレカ侍2号店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2105,6 +2138,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-xOdYF@xrossstars-watcher
+DTSTAMP:20261106T125517Z
+SEQUENCE:0
+DTSTART:20261122T072000Z
+DTEND:20261122T112000Z
+SUMMARY:第34回︎🌟2部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: なな
+ め会議\n参加費: 1500円(現金のみになります)\n定員: 32人\
+ nエントリー期間: 2026/11/07(土) 21:00 〜\n\nhttps://tonamel.com/c
+ ompetition/xOdYF
+URL:https://tonamel.com/competition/xOdYF
+LOCATION:トレカ侍2号店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-i6ZDX@xrossstars-watcher
 DTSTAMP:20261017T121420Z
 SEQUENCE:0
@@ -2123,14 +2172,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-XuX01@xrossstars-watcher
 DTSTAMP:20261020T133711Z
-SEQUENCE:65
+SEQUENCE:66
 DTSTART:20261123T013000Z
 DTEND:20261123T053000Z
 SUMMARY:【クロスギルド主催】第15回 GUILD CUP
 DESCRIPTION:会場: オフライン / 竜星のPAO秋葉原ロケット無
- 線店\n主催: 】第15回 GUILD CUP\n参加費: 1\,500円 ※当日支
- 払い\n定員: 64人\nエントリー期間: 2026/10/20(火) 19:00 〜\n\
- nhttps://tonamel.com/competition/XuX01
+ 線店\n主催: クロスギルド-XROSSGUILD-\n参加費: 1\,500円 ※
+ 当日支払い\n定員: 64人\nエントリー期間: 2026/10/20(火) 19:
+ 00 〜\n\nhttps://tonamel.com/competition/XuX01
 URL:https://tonamel.com/competition/XuX01
 LOCATION:竜星のPAO秋葉原ロケット無線店
 STATUS:CONFIRMED
@@ -2219,14 +2268,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-oZO62@xrossstars-watcher
 DTSTAMP:20261102T132616Z
-SEQUENCE:11
+SEQUENCE:12
 DTSTART:20261213T050000Z
 DTEND:20261213T090000Z
 SUMMARY:第15回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 500円 / 1人（決済は当日会場で支払い
- になります）\n定員: 48人\nエントリー期間: 2026/11/02(月) 
- 14:00 〜\n\nhttps://tonamel.com/competition/oZO62
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 500円 / 1
+ 人（決済は当日会場で支払いになります）\n定員: 48人\n
+ エントリー期間: 2026/11/02(月) 14:00 〜\n\nhttps://tonamel.com/co
+ mpetition/oZO62
 URL:https://tonamel.com/competition/oZO62
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
