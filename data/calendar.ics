@@ -1867,6 +1867,20 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-uTy6C@xrossstars-watcher
+DTSTAMP:20261114T085937Z
+SEQUENCE:0
+DTSTART:20261114T082000Z
+DTEND:20261114T122000Z
+SUMMARY:サイドイベント
+DESCRIPTION:会場: オフライン\n主催: 星屑デビルバッツ\n定
+ 員: 32人\n\nhttps://tonamel.com/competition/uTy6C
+URL:https://tonamel.com/competition/uTy6C
+LOCATION:オフライン
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-RXsBE@xrossstars-watcher
 DTSTAMP:20261027T074720Z
 SEQUENCE:2
@@ -1916,14 +1930,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-PzAvv@xrossstars-watcher
 DTSTAMP:20260929T112610Z
-SEQUENCE:175
+SEQUENCE:176
 DTSTART:20261115T050000Z
 DTEND:20261115T090000Z
 SUMMARY:第14回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 48人\nエントリー期間: 2026/09/29(
- 火) 19:00 〜\n\nhttps://tonamel.com/competition/PzAvv
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 48人\
+ nエントリー期間: 2026/09/29(火) 19:00 〜\n\nhttps://tonamel.com/c
+ ompetition/PzAvv
 URL:https://tonamel.com/competition/PzAvv
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -1991,6 +2006,21 @@ DESCRIPTION:会場: オフライン / SuperKaBoS+ゲオ二の宮本店\n主
  :00 〜\n\nhttps://tonamel.com/competition/rtMw2
 URL:https://tonamel.com/competition/rtMw2
 LOCATION:SuperKaBoS+ゲオ二の宮本店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-jcEWk@xrossstars-watcher
+DTSTAMP:20261114T085937Z
+SEQUENCE:0
+DTSTART:20261121T093000Z
+DTEND:20261121T133000Z
+SUMMARY:MINT OKINAWA CUP #2
+DESCRIPTION:会場: オフライン / ミント沖縄店\n主催: ミント
+ 沖縄店\n参加費: 1人　　500円\n定員: 16人\nエントリー期
+ 間: 2026/11/15(日) 09:00 〜\n\nhttps://tonamel.com/competition/jcEWk
+URL:https://tonamel.com/competition/jcEWk
+LOCATION:ミント沖縄店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2188,14 +2218,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-XuX01@xrossstars-watcher
 DTSTAMP:20261020T133711Z
-SEQUENCE:89
+SEQUENCE:90
 DTSTART:20261123T013000Z
 DTEND:20261123T053000Z
 SUMMARY:【クロスギルド主催】第15回 GUILD CUP
 DESCRIPTION:会場: オフライン / 竜星のPAO秋葉原ロケット無
- 線店\n主催: 】第15回 GUILD CUP\n参加費: 1\,500円 ※当日支
- 払い\n定員: 64人\nエントリー期間: 2026/10/20(火) 19:00 〜\n\
- nhttps://tonamel.com/competition/XuX01
+ 線店\n主催: クロスギルド-XROSSGUILD-\n参加費: 1\,500円 ※
+ 当日支払い\n定員: 64人\nエントリー期間: 2026/10/20(火) 19:
+ 00 〜\n\nhttps://tonamel.com/competition/XuX01
 URL:https://tonamel.com/competition/XuX01
 LOCATION:竜星のPAO秋葉原ロケット無線店
 STATUS:CONFIRMED
@@ -2263,6 +2293,21 @@ DESCRIPTION:会場: オフライン / flat-工房池袋店\n主催: flat-
  ion/Iwxo1
 URL:https://tonamel.com/competition/Iwxo1
 LOCATION:flat-工房池袋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-8uLZS@xrossstars-watcher
+DTSTAMP:20261114T085937Z
+SEQUENCE:0
+DTSTART:20261128T093000Z
+DTEND:20261128T133000Z
+SUMMARY:MINT OKINAWA CUP #3
+DESCRIPTION:会場: オフライン / ミント沖縄店\n主催: ミント
+ 沖縄店\n参加費: 1人　　500円\n定員: 16人\nエントリー期
+ 間: 2026/11/22(日) 09:00 〜\n\nhttps://tonamel.com/competition/8uLZS
+URL:https://tonamel.com/competition/8uLZS
+LOCATION:ミント沖縄店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2349,14 +2394,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-oZO62@xrossstars-watcher
 DTSTAMP:20261102T132616Z
-SEQUENCE:35
+SEQUENCE:36
 DTSTART:20261213T050000Z
 DTEND:20261213T090000Z
 SUMMARY:第15回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 500円 / 1人（決済は当日会場で支払い
- になります）\n定員: 48人\nエントリー期間: 2026/11/02(月) 
- 14:00 〜\n\nhttps://tonamel.com/competition/oZO62
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 500円 / 1
+ 人（決済は当日会場で支払いになります）\n定員: 48人\n
+ エントリー期間: 2026/11/02(月) 14:00 〜\n\nhttps://tonamel.com/co
+ mpetition/oZO62
 URL:https://tonamel.com/competition/oZO62
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
