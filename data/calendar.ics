@@ -1898,9 +1898,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-zU6ZN@xrossstars-watcher
 DTSTAMP:20260930T082726Z
-SEQUENCE:1
-DTSTART:20261115T030000Z
-DTEND:20261115T070000Z
+SEQUENCE:2
+DTSTART:20261115T020000Z
+DTEND:20261115T060000Z
 SUMMARY:第１回　ヴァリアブルピック杯
 DESCRIPTION:会場: オフライン / コーギーアール名古屋店\n
  主催: ヴァリアブルピック杯\n参加費: 2000円\n定員: 32人\
@@ -1930,14 +1930,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-PzAvv@xrossstars-watcher
 DTSTAMP:20260929T112610Z
-SEQUENCE:179
+SEQUENCE:180
 DTSTART:20261115T050000Z
 DTEND:20261115T090000Z
 SUMMARY:第14回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 48人\nエントリー期間: 2026/09/29(
- 火) 19:00 〜\n\nhttps://tonamel.com/competition/PzAvv
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 48人\
+ nエントリー期間: 2026/09/29(火) 19:00 〜\n\nhttps://tonamel.com/c
+ ompetition/PzAvv
 URL:https://tonamel.com/competition/PzAvv
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -2217,14 +2218,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-XuX01@xrossstars-watcher
 DTSTAMP:20261020T133711Z
-SEQUENCE:93
+SEQUENCE:94
 DTSTART:20261123T013000Z
 DTEND:20261123T053000Z
 SUMMARY:【クロスギルド主催】第15回 GUILD CUP
 DESCRIPTION:会場: オフライン / 竜星のPAO秋葉原ロケット無
- 線店\n主催: 】第15回 GUILD CUP\n参加費: 1\,500円 ※当日支
- 払い\n定員: 64人\nエントリー期間: 2026/10/20(火) 19:00 〜\n\
- nhttps://tonamel.com/competition/XuX01
+ 線店\n主催: クロスギルド-XROSSGUILD-\n参加費: 1\,500円 ※
+ 当日支払い\n定員: 64人\nエントリー期間: 2026/10/20(火) 19:
+ 00 〜\n\nhttps://tonamel.com/competition/XuX01
 URL:https://tonamel.com/competition/XuX01
 LOCATION:竜星のPAO秋葉原ロケット無線店
 STATUS:CONFIRMED
@@ -2393,14 +2394,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-oZO62@xrossstars-watcher
 DTSTAMP:20261102T132616Z
-SEQUENCE:39
+SEQUENCE:40
 DTSTART:20261213T050000Z
 DTEND:20261213T090000Z
 SUMMARY:第15回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 500円 / 1人（決済は当日会場で支払い
- になります）\n定員: 48人\nエントリー期間: 2026/11/02(月) 
- 14:00 〜\n\nhttps://tonamel.com/competition/oZO62
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 500円 / 1
+ 人（決済は当日会場で支払いになります）\n定員: 48人\n
+ エントリー期間: 2026/11/02(月) 14:00 〜\n\nhttps://tonamel.com/co
+ mpetition/oZO62
 URL:https://tonamel.com/competition/oZO62
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -2422,18 +2424,50 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-UmmZh@xrossstars-watcher
+DTSTAMP:20261115T124232Z
+SEQUENCE:0
+DTSTART:20261227T050000Z
+DTEND:20261227T090000Z
+SUMMARY:第1回　花束CS
+DESCRIPTION:会場: オフライン\n主催: Japan TCG Center吉祥寺駅
+ 北口店\n参加費: ・ダメージ計算ができるもの(スマホNG)
+ \n定員: 32人\nエントリー期間: 2026/12/01(火) 14:00 〜\n\nhttps
+ ://tonamel.com/competition/UmmZh
+URL:https://tonamel.com/competition/UmmZh
+LOCATION:オフライン
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-1T2ww@xrossstars-watcher
 DTSTAMP:20261113T183232Z
-SEQUENCE:0
-DTSTART:20270116T030000Z
-DTEND:20270116T070000Z
+SEQUENCE:1
+DTSTART:20270116T020000Z
+DTEND:20270116T060000Z
 SUMMARY:滝行杯　rebuild
 DESCRIPTION:会場: オフライン / 193 秋葉原店\n主催: 星屑デ
  ビルバッツ\n参加費: ・6000円(チームで)\n定員: 36人\nエ
- ントリー期間: 2026/11/13(金) 23:00 〜\n\nhttps://tonamel.com/compe
+ ントリー期間: 2026/11/13(金) 13:00 〜\n\nhttps://tonamel.com/compe
  tition/1T2ww
 URL:https://tonamel.com/competition/1T2ww
 LOCATION:193 秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-zGrd4@xrossstars-watcher
+DTSTAMP:20261115T124232Z
+SEQUENCE:0
+DTSTART:20270124T050000Z
+DTEND:20270124T090000Z
+SUMMARY:第2回　花束CS
+DESCRIPTION:会場: オフライン\n主催: Japan TCG Center吉祥寺駅
+ 北口店\n参加費: ・ダメージ計算ができるもの(スマホNG)
+ \n定員: 32人\nエントリー期間: 2027/01/01(金) 14:00 〜\n\nhttps
+ ://tonamel.com/competition/zGrd4
+URL:https://tonamel.com/competition/zGrd4
+LOCATION:オフライン
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
