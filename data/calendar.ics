@@ -2090,15 +2090,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-WjScP@xrossstars-watcher
 DTSTAMP:20261101T091037Z
-SEQUENCE:3
+SEQUENCE:4
 DTSTART:20261122T030000Z
 DTEND:20261122T070000Z
 SUMMARY:第8回　Xross Stars Showdown!! 【公認オーガナイザーイ
  ベント】
 DESCRIPTION:会場: オフライン / ウィングプラザ パティ　2F
- デュエルスペース\n主催: クロスタ\n定員: 48人\nエント
- リー期間: 2026/11/01(日) 19:00 〜\n\nhttps://tonamel.com/competition
- /WjScP
+ デュエルスペース\n主催: イベント】\n定員: 48人\nエン
+ トリー期間: 2026/11/01(日) 19:00 〜\n\nhttps://tonamel.com/competit
+ ion/WjScP
 URL:https://tonamel.com/competition/WjScP
 LOCATION:ウィングプラザ パティ　2Fデュエルスペース
 STATUS:CONFIRMED
@@ -2218,14 +2218,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-XuX01@xrossstars-watcher
 DTSTAMP:20261020T133711Z
-SEQUENCE:104
+SEQUENCE:105
 DTSTART:20261123T013000Z
 DTEND:20261123T053000Z
 SUMMARY:【クロスギルド主催】第15回 GUILD CUP
 DESCRIPTION:会場: オフライン / 竜星のPAO秋葉原ロケット無
- 線店\n主催: クロスギルド-XROSSGUILD-\n参加費: 1\,500円 ※
- 当日支払い\n定員: 64人\nエントリー期間: 2026/10/20(火) 19:
- 00 〜\n\nhttps://tonamel.com/competition/XuX01
+ 線店\n主催: 】第15回 GUILD CUP\n参加費: 1\,500円 ※当日支
+ 払い\n定員: 64人\nエントリー期間: 2026/10/20(火) 19:00 〜\n\
+ nhttps://tonamel.com/competition/XuX01
 URL:https://tonamel.com/competition/XuX01
 LOCATION:竜星のPAO秋葉原ロケット無線店
 STATUS:CONFIRMED
@@ -2376,6 +2376,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-EkjyW@xrossstars-watcher
+DTSTAMP:20261119T101645Z
+SEQUENCE:0
+DTSTART:20261202T090000Z
+DTEND:20261202T130000Z
+SUMMARY:第2回とりかごカップ
+DESCRIPTION:会場: オフライン / カードショップおうち\n主
+ 催: とりかごカップ\n参加費: 1000円（現金のみ）\n定員: 
+ 32人\nエントリー期間: 2026/11/20(金) 19:00 〜\n\nhttps://tonamel
+ .com/competition/EkjyW
+URL:https://tonamel.com/competition/EkjyW
+LOCATION:カードショップおうち
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-JPwj8@xrossstars-watcher
 DTSTAMP:20261111T091645Z
 SEQUENCE:0
@@ -2440,6 +2456,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-LJnrB@xrossstars-watcher
+DTSTAMP:20261119T101645Z
+SEQUENCE:0
+DTSTART:20261213T030000Z
+DTEND:20261213T070000Z
+SUMMARY:第4.5回　fam　CUP (仮)
+DESCRIPTION:会場: オフライン / トレカプラザ名古屋駅前店\
+ n主催: トレカプラザ名古屋駅前店\n定員: 96人\nエントリ
+ ー期間: 2026/11/19(木) 16:00 〜\n\nhttps://tonamel.com/competition/LJ
+ nrB
+URL:https://tonamel.com/competition/LJnrB
+LOCATION:トレカプラザ名古屋駅前店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Avj2H@xrossstars-watcher
 DTSTAMP:20260930T082726Z
 SEQUENCE:135
@@ -2458,15 +2490,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-oZO62@xrossstars-watcher
 DTSTAMP:20261102T132616Z
-SEQUENCE:50
+SEQUENCE:51
 DTSTART:20261213T050000Z
 DTEND:20261213T090000Z
 SUMMARY:第15回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
- 蝶杯（公認オーガナイザーイベント）\n参加費: 500円 / 1
- 人（決済は当日会場で支払いになります）\n定員: 48人\n
- エントリー期間: 2026/11/02(月) 14:00 〜\n\nhttps://tonamel.com/co
- mpetition/oZO62
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
+ ベント）\n参加費: 500円 / 1人（決済は当日会場で支払い
+ になります）\n定員: 48人\nエントリー期間: 2026/11/02(月) 
+ 14:00 〜\n\nhttps://tonamel.com/competition/oZO62
 URL:https://tonamel.com/competition/oZO62
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
