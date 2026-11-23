@@ -2232,14 +2232,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-XuX01@xrossstars-watcher
 DTSTAMP:20261020T133711Z
-SEQUENCE:116
+SEQUENCE:117
 DTSTART:20261123T013000Z
 DTEND:20261123T053000Z
 SUMMARY:【クロスギルド主催】第15回 GUILD CUP
 DESCRIPTION:会場: オフライン / 竜星のPAO秋葉原ロケット無
- 線店\n主催: クロスギルド-XROSSGUILD-\n参加費: 1\,500円 ※
- 当日支払い\n定員: 64人\nエントリー期間: 2026/10/20(火) 19:
- 00 〜\n\nhttps://tonamel.com/competition/XuX01
+ 線店\n主催: 】第15回 GUILD CUP\n参加費: 1\,500円 ※当日支
+ 払い\n定員: 64人\nエントリー期間: 2026/10/20(火) 19:00 〜\n\
+ nhttps://tonamel.com/competition/XuX01
 URL:https://tonamel.com/competition/XuX01
 LOCATION:竜星のPAO秋葉原ロケット無線店
 STATUS:CONFIRMED
@@ -2453,6 +2453,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-2UwTA@xrossstars-watcher
+DTSTAMP:20261123T104155Z
+SEQUENCE:0
+DTSTART:20261206T050000Z
+DTEND:20261206T090000Z
+SUMMARY:第4回　Xross Cheers杯
+DESCRIPTION:会場: オフライン / フルコンプ福岡天神店\n主
+ 催: しん\n参加費: 1000円\n定員: 32人\nエントリー期間: 202
+ 6/11/23(月) 12:00 〜\n\nhttps://tonamel.com/competition/2UwTA
+URL:https://tonamel.com/competition/2UwTA
+LOCATION:フルコンプ福岡天神店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Y4lin@xrossstars-watcher
 DTSTAMP:20261117T142003Z
 SEQUENCE:0
@@ -2497,6 +2512,21 @@ DESCRIPTION:会場: オフライン / レプトントレカ海田店\n主
  /oykgt
 URL:https://tonamel.com/competition/oykgt
 LOCATION:レプトントレカ海田店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-wtL9e@xrossstars-watcher
+DTSTAMP:20261123T104155Z
+SEQUENCE:0
+DTSTART:20261212T050000Z
+DTEND:20261212T090000Z
+SUMMARY:第5回　Xross Cheers杯
+DESCRIPTION:会場: オフライン / フルコンプ福岡天神店\n主
+ 催: しん\n参加費: 1000円\n定員: 32人\nエントリー期間: 202
+ 6/11/23(月) 12:00 〜\n\nhttps://tonamel.com/competition/wtL9e
+URL:https://tonamel.com/competition/wtL9e
+LOCATION:フルコンプ福岡天神店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2551,15 +2581,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-oZO62@xrossstars-watcher
 DTSTAMP:20261102T132616Z
-SEQUENCE:62
+SEQUENCE:63
 DTSTART:20261213T050000Z
 DTEND:20261213T090000Z
 SUMMARY:第15回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
- 蝶杯（公認オーガナイザーイベント）\n参加費: 500円 / 1
- 人（決済は当日会場で支払いになります）\n定員: 48人\n
- エントリー期間: 2026/11/02(月) 14:00 〜\n\nhttps://tonamel.com/co
- mpetition/oZO62
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
+ ベント）\n参加費: 500円 / 1人（決済は当日会場で支払い
+ になります）\n定員: 48人\nエントリー期間: 2026/11/02(月) 
+ 14:00 〜\n\nhttps://tonamel.com/competition/oZO62
 URL:https://tonamel.com/competition/oZO62
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -2661,6 +2690,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-Fg4DL@xrossstars-watcher
+DTSTAMP:20261123T104155Z
+SEQUENCE:0
+DTSTART:20270117T060000Z
+DTEND:20270117T100000Z
+SUMMARY:第6回　Xross Cheers杯
+DESCRIPTION:会場: オフライン / フルコンプ福岡天神店\n主
+ 催: しん\n参加費: 1000円\n定員: 32人\nエントリー期間: 202
+ 6/11/23(月) 12:00 〜\n\nhttps://tonamel.com/competition/Fg4DL
+URL:https://tonamel.com/competition/Fg4DL
+LOCATION:フルコンプ福岡天神店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-zGrd4@xrossstars-watcher
 DTSTAMP:20261115T124232Z
 SEQUENCE:0
@@ -2673,6 +2717,21 @@ DESCRIPTION:会場: オフライン\n主催: Japan TCG Center吉祥寺駅
  ://tonamel.com/competition/zGrd4
 URL:https://tonamel.com/competition/zGrd4
 LOCATION:オフライン
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-QIt25@xrossstars-watcher
+DTSTAMP:20261123T104155Z
+SEQUENCE:0
+DTSTART:20270131T060000Z
+DTEND:20270131T100000Z
+SUMMARY:第7回　Xross Cheers杯
+DESCRIPTION:会場: オフライン / フルコンプ福岡天神店\n主
+ 催: しん\n参加費: 1000円\n定員: 32人\nエントリー期間: 202
+ 6/11/23(月) 12:00 〜\n\nhttps://tonamel.com/competition/QIt25
+URL:https://tonamel.com/competition/QIt25
+LOCATION:フルコンプ福岡天神店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
